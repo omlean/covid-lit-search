@@ -1,0 +1,11 @@
+
+data/cord-19/
+data/CHQA-Corpus-1.0/
+data/EPIC-QA/
+data/fasttext_embeddings/
+data/owid-covid-data.csv
+data/COVID-19_Vaccination_Locations.csv
+data/COVID-19_Requests.csv
+_*
+.ipynb_checkpoints/
+data/processed/titles_abstracts.csv
