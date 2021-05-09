@@ -1,5 +1,14 @@
+# import libraries
 import pandas as pd
 import json
+import nltk
+import re
+import string
+from tqdm import tqdm
+from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 
 def parse_questions(filepath):
     """Parses the JSON files containing consumer and expert questions from EPIC-QA.
@@ -42,6 +51,60 @@ def load_metadata(filepath):
     
     print('Metadata cleaning complete')
     
+    return df
+
+##############################################################################
+
+def clean_text(s, stem=False, lemmatize=True, stopword_list=stopwords.words('english')):
+    """Removes punctuation, lowercases, removes stopwords, 
+    removes digit-only words, stems (optional) and lemmatizes (optional).
+    Note: to remove no stopwords, pass [] as stopword_list."""
+    s = s.lower() # lowercase
+    s = " ".join([w for w in word_tokenize(s) if w not in stopword_list]) # remove stopwords
+    s = s.lower() # lowercase
+    s = re.sub(r'[-–]', ' ', s) # replace hyphens with spaces
+    s = re.sub(r'[^a-z|0-9|\s]', '', s) # remove anything that isn't alphanumeric or whitespace
+    s = re.sub(r'\s\d+\s', ' ', s) # remove digit-only words
+    
+    if stem:
+        porter = PorterStemmer()
+        stemmed_words = []
+        for word in word_tokenize(s):
+            stemmed_words.append(porter.stem(word))
+        s = ' '.join(stemmed_words)
+        
+    if lemmatize:
+        lemmatizer = WordNetLemmatizer()
+        lemmatized_words = []
+        for word in word_tokenize(s):
+            lemmatized_words.append(lemmatizer.lemmatize(word, pos='v'))
+        s = ' '.join(lemmatized_words)
+    
+    return s
+
+##############################################################################
+
+def clean_alphanumeric(s):
+    """Drops words containing more than 4 digits, or beginning with digits then letters"""
+    s = re.sub(r'\d[a-z]*\d[a-z]*\d[a-z]*\d[a-z]*\d[\d\w]*', '', s)
+    s = re.sub(r'\d+[a-z]+\W*', '', s)
+    s = " ".join(word.strip() for word in s.split())
+    return s
+
+df['title_abstract'] = df['title_abstract'].apply(clean_alphanumeric)
+
+##############################################################################
+
+def make_title_abstract_documents(df, stem=True, lemmatize=True, stopword_list=stopwords.words('english')):
+    """Input: DataFrame containing columns ['cord_uid', 'title', 'abstract']
+    Returns: Dictionary of cord_uid and cleaned string of merged title and abstract."""
+    l = []
+    for i in tqdm(range(len(df))):
+        row = df.iloc[i]
+        s = str(row.title) + " " + str(row.abstract) if type(row.abstract) == str else str(row.title)
+        l.append(clean_text(s))
+    df['title_abstract'] = l
+    df = df.drop(columns=['title', 'abstract'])
     return df
 
 ##############################################################################

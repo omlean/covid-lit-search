@@ -9,3 +9,5 @@ data/COVID-19_Requests.csv
 _*
 .ipynb_checkpoints/
 data/processed/titles_abstracts.csv
+data/processed/tdm1.npz
+data/processed/titles_abstracts_merged_cleaned.csv
