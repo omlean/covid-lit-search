@@ -11,3 +11,5 @@ _*
 data/processed/titles_abstracts.csv
 data/processed/tdm1.npz
 data/processed/titles_abstracts_merged_cleaned.csv
+data/processed/titles_abstracts_merged_cleaned_1.csv
+*.npz

@@ -80,18 +80,21 @@ def clean_text(s, stem=False, lemmatize=True, stopword_list=stopwords.words('eng
             lemmatized_words.append(lemmatizer.lemmatize(word, pos='v'))
         s = ' '.join(lemmatized_words)
     
+    # Drops words containing more than 4 digits, or beginning with digits then letters
+    s = re.sub(r'\d[a-z]*\d[a-z]*\d[a-z]*\d[a-z]*\d[\d\w]*', '', s)
+    s = re.sub(r'\d+[a-z]+\W*', '', s)
+    s = " ".join(word.strip() for word in s.split())
+    
     return s
 
 ##############################################################################
 
-def clean_alphanumeric(s):
+def clean_alphanumeric(s): # now built into clean_text - redundant
     """Drops words containing more than 4 digits, or beginning with digits then letters"""
     s = re.sub(r'\d[a-z]*\d[a-z]*\d[a-z]*\d[a-z]*\d[\d\w]*', '', s)
     s = re.sub(r'\d+[a-z]+\W*', '', s)
     s = " ".join(word.strip() for word in s.split())
     return s
-
-df['title_abstract'] = df['title_abstract'].apply(clean_alphanumeric)
 
 ##############################################################################
 
