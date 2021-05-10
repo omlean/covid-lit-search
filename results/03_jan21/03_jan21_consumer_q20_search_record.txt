@@ -1,0 +1,17 @@
+Query: Which of the COVID-19 vaccines will be most effective and safe? 
+
+Result # 1: cord-uid 2z6s105mTitle: 
+ Are COVID-19 vaccines safe in pregnancy?Abstract: 
+nan
+Result # 2: cord-uid xxahksviTitle: 
+ What Are COVID-19 Vaccines?Abstract: 
+nan
+Result # 3: cord-uid cgvlzbvkTitle: 
+ COVID-19 vaccinesAbstract: 
+nan
+Result # 4: cord-uid 6po33tdpTitle: 
+ What Are COVID-19 Vaccines?Abstract: 
+nan
+Result # 5: cord-uid dool9zkiTitle: 
+ SARS-CoV-2 Vaccines in Kidney Transplant Recipients: Will They Be Safe and Effective and How Will We Know?Abstract: 
+nan

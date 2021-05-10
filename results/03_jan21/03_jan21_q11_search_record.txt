@@ -1,0 +1,17 @@
+Query: What are the implications of the known COVID-19 reinfection cases for vaccination? 
+
+Result # 1: cord-uid j4u08f6jTitle: 
+ What we know about covid-19 reinfection so farAbstract: 
+nan
+Result # 2: cord-uid a5mkt05hTitle: 
+ What we know about covid-19 reinfection so far.Abstract: 
+nan
+Result # 3: cord-uid zp7vx1xaTitle: 
+ COVID-19 reinfection in healthcare workers: a case seriesAbstract: 
+nan
+Result # 4: cord-uid hnzni1tvTitle: 
+ COVID-19 reinfection in healthcare workers: a case seriesAbstract: 
+nan
+Result # 5: cord-uid s1dert6nTitle: 
+ SARS-CoV-2 reinfection in a cohort of 43,000 antibody-positive individuals followed for up to 35 weeksAbstract: 
+Background: Reinfection with the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been documented, raising public health concerns. Risk and incidence rate of SARS-CoV-2 reinfection were assessed in a large cohort of antibody-positive persons in Qatar. Methods: All SARS-CoV-2 antibody-positive persons with a PCR-positive swab [≥]14 days after the first-positive antibody test were individually investigated for evidence of reinfection. Viral genome sequencing was conducted for paired viral specimens to confirm reinfection. Results: Among 43,044 anti-SARS-CoV-2 positive persons who were followed for a median of 16.3 weeks (range: 0-34.6), 314 individuals (0.7%) had at least one PCR positive swab [≥]14 days after the first-positive antibody test. Of these individuals, 129 (41.1%) had supporting epidemiological evidence for reinfection. Reinfection was next investigated using viral genome sequencing. Applying the viral-genome-sequencing confirmation rate, the risk of reinfection was estimated at 0.10% (95% CI: 0.08-0.11%). The incidence rate of reinfection was estimated at 0.66 per 10,000 person-weeks (95% CI: 0.56-0.78). Incidence rate of reinfection versus month of follow-up did not show any evidence of waning of immunity for over seven months of follow-up. Efficacy of natural infection against reinfection was estimated at >90%. Reinfections were less severe than primary infections. Only one reinfection was severe, two were moderate, and none were critical or fatal. Most reinfections (66.7%) were diagnosed incidentally through random or routine testing, or through contact tracing. Conclusions: Reinfection is rare. Natural infection appears to elicit strong protection against reinfection with an efficacy >90% for at least seven months.

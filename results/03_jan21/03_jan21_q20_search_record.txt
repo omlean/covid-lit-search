@@ -1,0 +1,17 @@
+Query: What are the characteristics and technological platforms of the COVID-19 vaccines that reached human clinical trials? 
+
+Result # 1: cord-uid 6olw76n1Title: 
+ Technological impact of COVID-19.Abstract: 
+nan
+Result # 2: cord-uid lms5atpfTitle: 
+ Clinical Trials Before, During, and After COVID-19 PandemicAbstract: 
+nan
+Result # 3: cord-uid jc435jyyTitle: 
+ Clinical Trials Before, During, and After COVID-19 Pandemic.Abstract: 
+nan
+Result # 4: cord-uid xpljyy5lTitle: 
+ The Technological SocietyAbstract: 
+nan
+Result # 5: cord-uid pmr3vjr6Title: 
+ Technological impact of COVID-19Abstract: 
+nan

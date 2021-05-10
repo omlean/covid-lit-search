@@ -1,0 +1,17 @@
+Query: Which COVID-19 vaccine trials were paused and what were the health safety concerns? 
+
+Result # 1: cord-uid 29okh8l1Title: 
+ COVID-19 vaccine safety monitoringAbstract: 
+nan
+Result # 2: cord-uid jgydghd4Title: 
+ COVID-10 vaccine safety monitoring in US: no serious concernsAbstract: 
+nan
+Result # 3: cord-uid vbvc5nsbTitle: 
+ Covid-19: South Africa pauses use of Oxford vaccine after study casts doubt on efficacy against variantAbstract: 
+nan
+Result # 4: cord-uid 80zdey8bTitle: 
+ Covid-19: South Africa pauses use of Oxford vaccine after study casts doubt on efficacy against variant.Abstract: 
+nan
+Result # 5: cord-uid col613iyTitle: 
+ COVID-19 VaccineAbstract: 
+nan

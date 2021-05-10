@@ -1,0 +1,17 @@
+Query: Can I go home when I have COVID-19 and pneumonia? 
+
+Result # 1: cord-uid q6cif5dsTitle: 
+ What is going on?Abstract: 
+nan
+Result # 2: cord-uid eaj5bskdTitle: 
+ What is going on?Abstract: 
+nan
+Result # 3: cord-uid g9ohvatfTitle: 
+ COVID-19 pneumonia: The fight must go onAbstract: 
+nan
+Result # 4: cord-uid 2jszs9qxTitle: 
+ COVID-19 pneumonia: The fight must go onAbstract: 
+nan
+Result # 5: cord-uid 9cczjuquTitle: 
+ COVID-19 and ethics: We learn as we go. But where are we going?Abstract: 
+nan

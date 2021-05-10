@@ -1,0 +1,17 @@
+Query: What are recommendations and advice in case of COVID-19 resurgence? 
+
+Result # 1: cord-uid au63yboaTitle: 
+ Preparing for a COVID-19 resurgence in the WHO African regionAbstract: 
+nan
+Result # 2: cord-uid 5okv5n4jTitle: 
+ Preparing for a COVID-19 resurgence in the WHO African regionAbstract: 
+nan
+Result # 3: cord-uid m8m78k8gTitle: 
+ Advice on consentAbstract: 
+nan
+Result # 4: cord-uid th82n98lTitle: 
+ When efficacy and adherence conflict: preferences and patterns of response to public health advice during the COVID-19 pandemicAbstract: 
+With recurring waves of the Covid-19 pandemic, a dilemma facing public health leadership is whether to provide public advice that is medically optimal (e.g., most protective against infection if followed), but unlikely to be adhered to, or advice that is less protective but is more likely to be followed. To provide insight about this dilemma, we examined and quantified public perceptions about the tradeoff between (a) the stand-alone value of health behavior advice, and (b) the advice's adherence likelihood. In a series of studies about preference for public health leadership advice, we asked 1,061 participants to choose between (1) strict advice that is medically optimal if adhered to but which is less likely to be broadly followed, and (2) relaxed advice, which is less medically effective but more likely to gain adherence - given varying infection expectancies. Participants' preference was consistent with risk aversion. Offering an informed choice alternative that shifts volition to advice recipients only strengthened risk aversion, but also demonstrated that informed choice was preferred as much or more than the risk-averse strict advice.
+Result # 5: cord-uid 0rmgrapnTitle: 
+ Resurgence of Covid-19 pandemic: Challenging situation of economics vs. healthcare.Abstract: 
+nan

@@ -13,3 +13,8 @@ data/processed/tdm1.npz
 data/processed/titles_abstracts_merged_cleaned.csv
 data/processed/titles_abstracts_merged_cleaned_1.csv
 *.npz
+data/processed/01_full_table.csv
+data/processed/01_vectorizer.pkl
+data/processed/02_vectorizer.pkl
+data/processed/03_jan21_vectorizer.pkl
+data/processed/metadata_clean.csv

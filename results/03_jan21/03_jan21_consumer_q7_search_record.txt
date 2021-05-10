@@ -1,0 +1,17 @@
+Query: How often is a COVID-19 test result wrong? 
+
+Result # 1: cord-uid tlm8y20sTitle: 
+ What went wrong in the global governance of covid-19?Abstract: 
+nan
+Result # 2: cord-uid zqinsjw6Title: 
+ What went wrong in the global governance of covid-19?Abstract: 
+nan
+Result # 3: cord-uid lc2f4vh0Title: 
+ Executive summary: It's wrong not to test: The case for universal, frequent rapid COVID-19 testingAbstract: 
+nan
+Result # 4: cord-uid hsgl5zhyTitle: 
+ Executive summary: It's wrong not to test: The case for universal, frequent rapid COVID-19 testingAbstract: 
+nan
+Result # 5: cord-uid 95qlsu64Title: 
+ The Coronavirus Pandemic 1 Year On-What Went Wrong?Abstract: 
+nan

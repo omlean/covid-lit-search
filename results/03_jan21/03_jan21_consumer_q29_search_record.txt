@@ -1,0 +1,17 @@
+Query: How risky are everyday life activities during COVID-19? 
+
+Result # 1: cord-uid tr2q4dv2Title: 
+ COVID-19 pandemic era: How risky is the continuous usage of cadavers for teaching and research?Abstract: 
+nan
+Result # 2: cord-uid bl1825okTitle: 
+ COVID-19 and Unilateral Withdrawal of Life-Sustaining Treatments: Tragedy in Crisis, and Lessons for Everyday MedicineAbstract: 
+nan
+Result # 3: cord-uid 4ixmk5kyTitle: 
+ COVID-19 and Unilateral Withdrawal of Life-Sustaining Treatments: Tragedy in Crisis, and Lessons for Everyday MedicineAbstract: 
+nan
+Result # 4: cord-uid aa3em7i4Title: 
+ Paradigm Shift in E/E Architectures Leads to Risky DependenciesAbstract: 
+nan
+Result # 5: cord-uid nb3848isTitle: 
+ "Everything feels risky now": Perceived "risky" sexual behavior during COVID-19 pandemic.Abstract: 
+Social distancing through the COVID-19 pandemic has impacted sexuality and relationships, which may also change risk perceptions beyond traditional definitions (e.g. sexually transmitted infections). This study examines risk perceptions related to sexuality during the pandemic. We present qualitative analyses of a survey of adults in the United States (N = 333) to identify impacts of COVID-19 on individuals' risk perceptions. Risky sexual behavior definitions included: (1) COVID-19-related, (2) STI/pregnancy, (3) relationship-related, (4) physical boundaries, (5) drug or alcohol, and (6) multiple risks. Conventional public health messaging may need to incorporate changing risk definitions to address sexual health during the pandemic.

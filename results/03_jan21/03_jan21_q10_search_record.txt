@@ -1,0 +1,17 @@
+Query: What factors influence the duration of protection and immunity to SARS-CoV-2?   
+
+Result # 1: cord-uid y6rslvxuTitle: 
+ [Vaccination immunology in SARS-CoV-2].Abstract: 
+The duration of immunity after SARS-CoV-2 infection or vaccination is uncertain, but major advances have been made in the understanding of SARS-CoV-2 B- and T-cell protection. In this review, key data from studies of re-infection as well as B- and T-cell immunity after infection and vaccination are presented.
+Result # 2: cord-uid w666qegzTitle: 
+ [Vaccination immunology in SARS-CoV-2]Abstract: 
+The duration of immunity after SARS-CoV-2 infection or vaccination is uncertain, but major advances have been made in the understanding of SARS-CoV-2 B- and T-cell protection In this review, key data from studies of re-infection as well as B- and T-cell immunity after infection and vaccination are presented
+Result # 3: cord-uid djs0tmbdTitle: 
+ Correlates of protection from SARS-CoV-2 infectionAbstract: 
+nan
+Result # 4: cord-uid u8t06ccwTitle: 
+ Correlates of protection from SARS-CoV-2 infectionAbstract: 
+nan
+Result # 5: cord-uid j6pvria3Title: 
+ Immunity to SARS-CoV-2 variants of concern.Abstract: 
+nan

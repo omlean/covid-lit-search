@@ -1,0 +1,17 @@
+Query: If the common cold is a type of coronavirus and we're unable to find a cure, why does the medical community have confidence we will find a vaccine for COVID-19? 
+
+Result # 1: cord-uid zs7y38hbTitle: 
+ The coronavirus could end up mild like a common coldAbstract: 
+nan
+Result # 2: cord-uid 2z0elunvTitle: 
+ The coronavirus could end up mild like a common coldAbstract: 
+nan
+Result # 3: cord-uid co6k36lsTitle: 
+ COVID-19 re-infectionAbstract: 
+nan
+Result # 4: cord-uid mdkieltgTitle: 
+ The long view The coronavirus could end up mild like a common coldAbstract: 
+nan
+Result # 5: cord-uid vlzbotz9Title: 
+ Who Gets Cured? COVID-19 and Developing a Critical Medical Sociology and Anthropology of CureAbstract: 
+nan

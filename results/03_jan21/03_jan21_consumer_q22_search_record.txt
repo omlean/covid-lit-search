@@ -1,0 +1,17 @@
+Query: Are there alternative treatments for COVID-19? 
+
+Result # 1: cord-uid ybj1g1tmTitle: 
+ 2020 Year in Review: Pharmacologic Treatments for COVID-19.Abstract: 
+COVID-19, caused by SARS-CoV-2 infection, has led to a pandemic of acute respiratory illness. Pharmacologic treatments for COVID-19 have included treatments targeting infection prevention, prevention of viral replication, reducing inflammation and managing symptoms of respiratory failure caused by the disease. This is a review of key pharmacologic treatments for COVID-19 based on peer-reviewed articles from 2020.
+Result # 2: cord-uid 9vl5jcu5Title: 
+ 2020 Year in Review: Pharmacologic Treatments for COVID-19Abstract: 
+COVID-19, caused by SARS-CoV-2 infection, has led to a pandemic of acute respiratory illness. Pharmacologic treatments for COVID-19 have included treatments targeting infection prevention, prevention of viral replication, reducing inflammation and managing symptoms of respiratory failure caused by the disease. This is a review of key pharmacologic treatments for COVID-19 based on peer-reviewed articles from 2020.
+Result # 3: cord-uid jnb4tjjtTitle: 
+ COVID antibody treatments show promise for preventing severe disease.Abstract: 
+nan
+Result # 4: cord-uid gy47l3bsTitle: 
+ COVID antibody treatments show promise for preventing severe diseaseAbstract: 
+nan
+Result # 5: cord-uid 9twcmt1cTitle: 
+ Update on technologies, medicines and treatmentsAbstract: 
+nan

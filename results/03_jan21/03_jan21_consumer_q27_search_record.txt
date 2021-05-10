@@ -1,0 +1,17 @@
+Query: Who will get COVID--19 vaccine first and why? 
+
+Result # 1: cord-uid pncwiradTitle: 
+ COVID-19 Pandemic: What Has Work Got to Do With It?Abstract: 
+nan
+Result # 2: cord-uid gy9k8cbcTitle: 
+ COVID-19 Pandemic: What has work got to do with it?Abstract: 
+nan
+Result # 3: cord-uid col613iyTitle: 
+ COVID-19 VaccineAbstract: 
+nan
+Result # 4: cord-uid ctgsd8uqTitle: 
+ Willingness to get a COVID-19 vaccine among critical care non-medical healthcare workers and impact of a vaccine information sessionAbstract: 
+nan
+Result # 5: cord-uid 7rfibl3fTitle: 
+ Willingness to get a COVID-19 vaccine among critical care non-medical healthcare workers and impact of a vaccine information sessionAbstract: 
+nan

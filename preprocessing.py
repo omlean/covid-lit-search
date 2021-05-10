@@ -33,7 +33,21 @@ def parse_questions(filepath):
 
 ##############################################################################
 
-def load_metadata(filepath):
+def drop_emptier_duplicates(df):
+    """For all sets of rows with the same value of duplicate_column, keep only the one with the fewes NaNs"""
+    duplicates_df = df[df['cord_uid'].duplicated(keep=False)]
+    duplicates_df['nans'] = duplicates_df.apply(lambda x: x.isnull().sum(), axis=1)
+    droplist = []
+    print("Choosing rows to drop")
+    for uid in tqdm(duplicates_df['cord_uid'].unique()):
+        sets = duplicates_df[duplicates_df['cord_uid'] == uid]
+        for i in sets.sort_values('nans', ascending=False).iloc[1:].index:
+            droplist.append(i)
+    return df.drop(index=droplist)
+
+##############################################################################
+
+def clean_metadata(filepath):
     """Loads and preprocesses CORD-19 metadata table at the specified location.
     Returns DataFrame"""
     df = pd.read_csv(filepath, low_memory=False)
@@ -49,9 +63,39 @@ def load_metadata(filepath):
     # convert publish_time column to datetime format
     df['publish_time'] = pd.to_datetime(df['publish_time'])
     
+    print('Dropping duplicate uids')
+    df = drop_emptier_duplicates(df)
+    
     print('Metadata cleaning complete')
     
     return df
+
+##############################################################################
+
+def load_cleaned_metadata(path):
+    # load dataframe
+    df = pd.read_csv(path, index_col=0, sep='\t', low_memory=False)
+    
+    # convert publish_time to datetime format
+    df.publish_time = pd.to_datetime(df.publish_time)
+    
+    # fill nans with "none"
+    none_fill = ['pmcid', 'pubmed_id', 'mag_id', 'who_covidence_id', 'arxiv_id', 's2_id',
+            'pdf_json_files', 'pmc_json_files']
+    for col in none_fill:
+        df[col] = df[col].fillna('none')
+    
+    # fill nans with "unknown"
+    unknown_fill = ['doi', 'publish_time', 'authors', 'journal', 'url']
+    for col in unknown_fill:
+        df[col] = df[col].fillna('unknown')
+    
+    # fill nans with empty string
+    empty_fill = ['abstract']
+    for col in empty_fill:
+        df[col] = df[col].fillna('')
+        
+    return df        
 
 ##############################################################################
 
@@ -89,25 +133,17 @@ def clean_text(s, stem=False, lemmatize=True, stopword_list=stopwords.words('eng
 
 ##############################################################################
 
-def clean_alphanumeric(s): # now built into clean_text - redundant
-    """Drops words containing more than 4 digits, or beginning with digits then letters"""
-    s = re.sub(r'\d[a-z]*\d[a-z]*\d[a-z]*\d[a-z]*\d[\d\w]*', '', s)
-    s = re.sub(r'\d+[a-z]+\W*', '', s)
-    s = " ".join(word.strip() for word in s.split())
-    return s
-
-##############################################################################
-
-def make_title_abstract_documents(df, stem=True, lemmatize=True, stopword_list=stopwords.words('english')):
-    """Input: DataFrame containing columns ['cord_uid', 'title', 'abstract']
-    Returns: Dictionary of cord_uid and cleaned string of merged title and abstract."""
+def make_search_documents(df, stem=False, lemmatize=True, stopword_list=stopwords.words('english')):
+    """Input: dataframe whose titles and abstracts are to be merged into clean documents for vectorization.
+        Must contain columns ['cord_uid', 'title', 'abstract']
+    Output: List of cleaned strings consisting of titles and abstracts"""
     l = []
     for i in tqdm(range(len(df))):
         row = df.iloc[i]
-        s = str(row.title) + " " + str(row.abstract) if type(row.abstract) == str else str(row.title)
-        l.append(clean_text(s))
-    df['title_abstract'] = l
-    df = df.drop(columns=['title', 'abstract'])
-    return df
+        s = row.title + " " + row.abstract
+        cleaned_text = clean_text(s, stem=stem, lemmatize=lemmatize, stopword_list=stopword_list)
+        l.append(cleaned_text)
+
+    return l
 
 ##############################################################################

@@ -1,0 +1,17 @@
+Query: Why were COVID-19 vaccine trials paused? 
+
+Result # 1: cord-uid 80zdey8bTitle: 
+ Covid-19: South Africa pauses use of Oxford vaccine after study casts doubt on efficacy against variant.Abstract: 
+nan
+Result # 2: cord-uid vbvc5nsbTitle: 
+ Covid-19: South Africa pauses use of Oxford vaccine after study casts doubt on efficacy against variantAbstract: 
+nan
+Result # 3: cord-uid col613iyTitle: 
+ COVID-19 VaccineAbstract: 
+nan
+Result # 4: cord-uid jc435jyyTitle: 
+ Clinical Trials Before, During, and After COVID-19 Pandemic.Abstract: 
+nan
+Result # 5: cord-uid lms5atpfTitle: 
+ Clinical Trials Before, During, and After COVID-19 PandemicAbstract: 
+nan

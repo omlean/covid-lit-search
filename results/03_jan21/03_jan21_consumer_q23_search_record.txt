@@ -1,0 +1,17 @@
+Query: Is COVID-19 getting stronger as the virus mutates? 
+
+Result # 1: cord-uid nbj05lv6Title: 
+ Time to adaptAbstract: 
+As the coronavirus mutates, we will need to adjust our approach to it
+Result # 2: cord-uid pncwiradTitle: 
+ COVID-19 Pandemic: What Has Work Got to Do With It?Abstract: 
+nan
+Result # 3: cord-uid gy9k8cbcTitle: 
+ COVID-19 Pandemic: What has work got to do with it?Abstract: 
+nan
+Result # 4: cord-uid cmd4elptTitle: 
+ Progressing adaptation of SARS-CoV-2 to humansAbstract: 
+The second and subsequent waves of coronavirus disease 2019 (COVID-19) have caused problems worldwide 1. Here, using an objective analytical method 2, we present the changes that occurred in the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative virus of COVID-19, over time. The virus has mutated in three major directions, resulting in three groups to date. Analysis of the basic structure of the group of viruses was completed by April and shared across all continents. However, the virus continued to mutate independently in each country after the borders were closed. In particular, the virus mutated before the occurrence of the second and subsequent peaks. It seems that the mutations conferred higher infectivity to the virus, because of which the virus overcame previously effective protection and caused second waves of the disease. Currently, each country may possess such a unique, stronger variant. Some of them slowly entered other countries and caused epidemics. These viruses could also serve as sources of further mutations by exchanging parts of the genome, which could create variants with superior infectivity.
+Result # 5: cord-uid rm8oj7umTitle: 
+ COVID-19: building a stronger EuropeAbstract: 
+nan
