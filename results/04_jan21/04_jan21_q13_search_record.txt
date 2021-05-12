@@ -1,0 +1,32 @@
+Query: Which COVID-19 vaccine trials were paused and what were the health safety concerns? 
+
+Result # 1: cord-uid jgydghd4 
+Title: 
+ COVID-10 vaccine safety monitoring in US: no serious concerns 
+Abstract: 
+nan
+
+Result # 2: cord-uid 80zdey8b 
+Title: 
+ Covid-19: South Africa pauses use of Oxford vaccine after study casts doubt on efficacy against variant. 
+Abstract: 
+nan
+
+Result # 3: cord-uid 7mjr87h6 
+Title: 
+ A Commentary on Realities of Developing COVID-19 Vaccines Discussed through the Global Health Safety Perspective 
+Abstract: 
+SARS-CoV-2 (or simply COVID-19) remains to be a global pandemic issue affecting millions, thus urging the world's scientific community to develop efficient vaccine and design adequate measures of disease control. Currently, the most economically viable solution to infections and viruses is vaccination, despite the possible concerns about side effects from implementing quickly developed vaccine. The current commentary intends to explain the health and safety related to COVID-19 vaccines via a prism of global health safety. Scientists across the globe, along with companies from both public and private sectors, have predictably arranged cooperative programs to learn about COVID-19, along with taking simultaneous steps on devising vaccine and preparing effective treatments plans. Presently, several clinical trials to approve the efficiency of proposed vaccine solutions have been made successfully. Global health safety concerns on vaccine's efficiency such as high costs of production, provision of vaccine to developing countries, and its influence on the global economy are addressed. This commentary reflects on current efforts related to the development of vaccine against COVID-19, which currently affects the global health status and economy. In addition, the commentary aims at addressing potential risks related to the development of COVID-19 vaccine from the global health safety perspective.
+
+Result # 4: cord-uid b0x84n4e 
+Title: 
+ A Commentary on Realities of Developing COVID-19 Vaccines Discussed through the Global Health Safety Perspective 
+Abstract: 
+SARS-CoV-2 (or simply COVID-19) remains to be a global pandemic issue affecting millions, thus urging the world’s scientific community to develop efficient vaccine and design adequate measures of disease control. Currently, the most economically viable solution to infections and viruses is vaccination, despite the possible concerns about side effects from implementing quickly developed vaccine. The current commentary intends to explain the health and safety related to COVID-19 vaccines via a prism of global health safety. Scientists across the globe, along with companies from both public and private sectors, have predictably arranged cooperative programs to learn about COVID-19, along with taking simultaneous steps on devising vaccine and preparing effective treatments plans. Presently, several clinical trials to approve the efficiency of proposed vaccine solutions have been made successfully. Global health safety concerns on vaccine’s efficiency such as high costs of production, provision of vaccine to developing countries, and its influence on the global economy are addressed. This commentary reflects on current efforts related to the development of vaccine against COVID-19, which currently affects the global health status and economy. In addition, the commentary aims at addressing potential risks related to the development of COVID-19 vaccine from the global health safety perspective.
+
+Result # 5: cord-uid 8sjxyl8p 
+Title: 
+ Safety update on COVID-19 vaccine Comirnaty finds no new concerns 
+Abstract: 
+nan
+

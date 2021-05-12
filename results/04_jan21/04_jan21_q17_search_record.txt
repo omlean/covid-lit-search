@@ -1,0 +1,32 @@
+Query: How efficient are herd immunity approaches to COVID-19 containment?   
+
+Result # 1: cord-uid 6u3g1u1b 
+Title: 
+ COVID-19 pandemic and vaccination build herd immunity. 
+Abstract: 
+nan
+
+Result # 2: cord-uid 0qorq7tv 
+Title: 
+ Herd immunity. 
+Abstract: 
+Herd immunity is an important yet often misunderstood concept in epidemiology. As immunity accumulates in a population - naturally during the course of an epidemic or through vaccination - the spread of an infectious disease is limited by the depletion of susceptible hosts. If a sufficient proportion of the population is immune - above the 'herd immunity threshold' - then transmission generally cannot be sustained. Maintaining herd immunity is therefore critical to long-term disease control. In this primer, we discuss the concept of herd immunity from first principles, clarify common misconceptions, and consider the implications for disease control.
+
+Result # 3: cord-uid jf2kz33o 
+Title: 
+ Herd immunity: could it bring the COVID-19 pandemic to an end? 
+Abstract: 
+nan
+
+Result # 4: cord-uid uuhmo94b 
+Title: 
+ COVID-19 Herd Immunity in the Absence of a Vaccine: An Irresponsible Approach. 
+Abstract: 
+With SARS-CoV-2 continuing to spread rapidly throughout the human population, the concept of 'herd immunity' has been attracting the attention of both decision makers and the general public. In the absence of a vaccine, this entails that a large proportion of the population be infected to develop immunity that would limit the severity and/or extent of subsequent outbreaks. We argue that adopting such an approach should be avoided for several reasons: There are significant uncertainties about whether achieving herd immunity is possible. If possible, achieving herd immunity would impose a large burden on society. There are gaps in protection, making it difficult to shield the vulnerable. It would defeat the purpose of avoiding harm caused by the virus. Lastly, dozens of countries are showing that containment is possible.
+
+Result # 5: cord-uid 39bqgp73 
+Title: 
+ COVID-19 herd immunity in the absence of a vaccine: an irresponsible approach 
+Abstract: 
+As severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to spread rapidly throughout the human population, the concept of "herd immunity" has attracted the attention of both decision-makers and the general public. In the absence of a vaccine, this entails that a large proportion of the population will be infected to develop immunity that would limit the severity and/or extent of subsequent outbreaks. We argue that adopting such an approach should be avoided for several reasons. There are significant uncertainties about whether achieving herd immunity is possible. If possible, achieving herd immunity would impose a large burden on society. There are gaps in protection, making it difficult to shield the vulnerable. It would defeat the purpose of avoiding harm caused by the virus. Lastly, dozens of countries are showing that containment is possible.
+

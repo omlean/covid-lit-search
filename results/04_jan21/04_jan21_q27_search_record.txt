@@ -1,0 +1,32 @@
+Query: What COVID-19 vaccine distribution plans are fair and  will have the most impact? 
+
+Result # 1: cord-uid t1z4we3h 
+Title: 
+ The commitment for fair distribution of COVID-19 vaccine among all countries of the world 
+Abstract: 
+nan
+
+Result # 2: cord-uid a3pcgilw 
+Title: 
+ The commitment for fair distribution of COVID‐19 vaccine among all countries of the world 
+Abstract: 
+nan
+
+Result # 3: cord-uid 2zn9g8ak 
+Title: 
+ Getting Everyone to the Fair: Supporting Teachers in Broadening Participation in Science and Engineering Fairs 
+Abstract: 
+Science and Engineering (S&E) fairs are a valuable educational activity and are believed to increase students’ engagement and learning in science and engineering. However, due to differences in resources, many schools do not implement fairs to achieve these benefits for their students. This study reports the findings of a program intended to increase the participation of students from low-achieving and under-resourced schools in a regional fair program that feeds into the international fair competition. We found that the number of schools and projects participating in our regional fair increased dramatically since the start of the program. Teachers had mostly positive expectations for the project and expressed buy-in for the effort the project would take. They recruited a diverse pool of students to participate in the school fairs. Quasi-experimental methods allowed us to explore the impact of completing S&E fairs on student gains on science self-efficacy, interest and value perceptions. Controlling for pre-existing differences in these attitudes, we found that students not completing projects showed declines in their science attitudes during the year. Students who completed projects maintained similar attitudes, while those whose projects advanced to the regional fair had substantial gains on all three variables. It is unknown whether this gain can be attributed to the experience of engaging with a quality project, from being the kind of student who completes a quality project, or some other factor. Future research with greater experimental control could address these questions.
+
+Result # 4: cord-uid ohwhi4ta 
+Title: 
+ What could fair allocation of an efficacious COVID-19 vaccine look like in South Africa? 
+Abstract: 
+nan
+
+Result # 5: cord-uid oq1wo3ik 
+Title: 
+ A novel approach to combat COVID-19 - A risk stratification model with FAIR intervention 
+Abstract: 
+nan
+

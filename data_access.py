@@ -64,5 +64,12 @@ def get_body_text_from_path(path):
         j = json.load(file)
         for block in j['body_text']:
             blocks.append(block['text'])
-    fulltext = ' '.join(blocks)
+    fulltext = '\n\n'.join(blocks)
     return fulltext
+
+def get_txt(uid, directory='data/cord-19/body_text/lda_raw/'):
+    """Given a cord_uid, retrieves the full text for that paper from the .txt file."""
+    dest_path = directory + uid + '.txt'
+    with open(dest_path, 'r') as file:
+        text = file.read()
+    return text

@@ -102,9 +102,9 @@ def write_details(query, uids, reference_df, record_file_prefix, directory='data
         file.write(f"Query: {query} \n\n")
         for i in range(len(uids)):
             row = reference_df[reference_df.cord_uid == uids[i]].iloc[0]
-            file.write(f"Result # {i+1}: cord-uid {uids[i]}")
-            file.write(f"Title: \n {row.title}")
-            file.write(f"Abstract: \n{row.abstract}\n")
+            file.write(f"Result # {i+1}: cord-uid {uids[i]} \n")
+            file.write(f"Title: \n {row.title} \n")
+            file.write(f"Abstract: \n{row.abstract}\n\n")
     print(f'Search results saved to {record_path}')
     
 ################################################################################################
