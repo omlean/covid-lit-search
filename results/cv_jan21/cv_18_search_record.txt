@@ -1,0 +1,32 @@
+Query: When should an employee suspected or confirmed to have COVID-19 return to work? 
+
+Result # 1: cord-uid fco5gpe7 
+Title: 
+ A pathway for acute chest imaging in suspected or confirmed COVID-19. 
+Abstract: 
+nan
+
+Result # 2: cord-uid 3npekacq 
+Title: 
+ healthcareCOVID: a national cross-sectional observational study identifying risk factors for developing suspected or confirmed COVID-19 in UK healthcare workers 
+Abstract: 
+OBJECTIVE: To establish the prevalence, risk factors and implications of suspected or confirmed coronavirus disease 2019 (COVID-19) infection among healthcare workers in the United Kingdom (UK). DESIGN: Cross-sectional observational study. SETTING: UK-based primary and secondary care. PARTICIPANTS: Healthcare workers aged ≥18 years working between 1 February and 25 May 2020. MAIN OUTCOME MEASURES: A composite endpoint of laboratory-confirmed diagnosis of SARS-CoV-2, or self-isolation or hospitalisation due to suspected or confirmed COVID-19. RESULTS: Of 6,152 eligible responses, the composite endpoint was present in 1,806 (29.4%) healthcare workers, of whom 49 (0.8%) were hospitalised, 459 (7.5%) tested positive for SARS-CoV-2, and 1,776 (28.9%) reported self-isolation. Overall, between 11,870 and 21,158 days of self-isolation were required by the cohort, equalling approximately 71 to 127 working days lost per 1,000 working days. The strongest risk factor associated with the presence of the primary composite endpoint was increasing frequency of contact with suspected or confirmed COVID-19 cases without adequate personal protective equipment (PPE): ‘Never’ (reference), ‘Rarely’ (adjusted odds ratio 1.06, (95% confidence interval: [0.87–1.29])), ‘Sometimes’ (1.7 [1.37–2.10]), ‘Often’ (1.84 [1.28–2.63]), ‘Always’ (2.93, [1.75–5.06]). Additionally, several comorbidities (cancer, respiratory disease, and obesity); working in a ‘doctors’ role; using public transportation for work; regular contact with suspected or confirmed COVID-19 patients; and lack of PPE were also associated with the presence of the primary endpoint. A total of 1,382 (22.5%) healthcare workers reported lacking access to PPE items while having clinical contact with suspected or confirmed COVID-19 cases. CONCLUSIONS: Suspected or confirmed COVID-19 was more common in healthcare workers than in the general population and is associated with significant workforce implications. Risk factors included inadequate PPE, which was reported by nearly a quarter of healthcare workers. Governments and policymakers must ensure adequate PPE is available as well as developing strategies to mitigate risk for high-risk healthcare workers during future COVID-19 waves.
+
+Result # 3: cord-uid xautggnn 
+Title: 
+ A pathway for acute chest imaging in suspected or confirmed COVID-19 
+Abstract: 
+nan
+
+Result # 4: cord-uid 3rms3wyr 
+Title: 
+ A Return-to-Work Program for Covid-19 for a Multistate Essential Business 
+Abstract: 
+Essential businesses need to protect both their workers and their customers during the Covid-19 pandemic. A manufacturer with a significant on-site service and installation component created a comprehensive program for work site safety, symptom monitoring, quarantine, contact tracing, and return-to-work verification that showed high employee engagement and satisfaction, and an almost 3-to-1 return on investment.
+
+Result # 5: cord-uid 6co72n64 
+Title: 
+ Tackling the negative impact of COVID-19 on work engagement and taking charge: A multi-study investigation of frontline health workers. 
+Abstract: 
+The COVID-19 pandemic, as a stressful event, has posed unprecedented challenges for employees worldwide. This research investigated whether and when an employee's perceived COVID-19 crisis strength affected his or her work engagement and taking charge at work. In a time-lagged field study of health workers on the coronavirus frontline (Study 1), we found that when work meaningfulness was lower, a health worker's perceived COVID-19 crisis strength exerted a more negative effect on his or her work engagement and taking charge at work. In a longitudinal field experiment (Study 2), we collaborated with a hospital to carry out two organizational interventions based on event system theory and work meaningfulness r esearch. The interventions significantly decreased perceived COVID-19 crisis strength and increased work meaningfulness for medical staff in an intensive care unit (ICU), who were tasked with caring for COVID-19 patients in critical condition. The findings of Study 2 demonstrate the effectiveness of organizational training and interventions in alleviating the negative impact of COVID-19 on an employee's work engagement and taking charge at work. (PsycInfo Database Record (c) 2021 APA, all rights reserved).
+

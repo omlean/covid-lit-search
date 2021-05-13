@@ -1,0 +1,32 @@
+Query: When is it safe to discharge a COVID-19 patient with pneumonia?  
+
+Result # 1: cord-uid hr97xm15 
+Title: 
+ Mosaic attenuation in a patient with COVID-19 pneumonia/ Atenuação em mosaico em paciente com pneumonia por COVID-19 
+Abstract: 
+nan
+
+Result # 2: cord-uid 33aagyii 
+Title: 
+ Immunosuppressants: COVID-19 and COVID-19-pneumonia: 19 case reports 
+Abstract: 
+nan
+
+Result # 3: cord-uid bduued0a 
+Title: 
+ COVID-19 and Adenovirus Multi-Lobar Pneumonia on CT Scan in a Patient with Repeatedly Normal Chest X-Rays Despite Severe Hypoxia and the Need for Non-Invasive Ventilation 
+Abstract: 
+The British Society of Thoracic Imaging (BSTI) has published clear guidance on the classification of chest X-ray (CXR) findings in coronavirus disease 2019 (COVID-19) patients, which are summarised in four main categories: COVID-classical, COVID-indeterminate, COVID-normal, or non-COVID We report the case of a 34-year-old lady who is otherwise fit and well She presented with typical COVID-19 symptoms requiring supplemental oxygen, with normal CXR and COVID-19 reverse transcriptase-polymerase chain reaction (RT-PCR) swab on admission Her condition deteriorated after 24 hours with severe hypoxia requiring up to 60% oxygen Repeat CXR was normal, which was followed by computed tomography pulmonary angiogram (CTPA) that ruled out pulmonary embolism;however, CTPA confirmed multi-lobar pneumonia consistent with COVID-19 The patient was admitted to the intensive care unit for non-invasive ventilation (NIV) and ongoing care Extended respiratory screening confirmed positive COVID-19 antibodies and positive adenovirus swabs The patient also developed COVID-19 related hepatocellular injury and myocarditis in the absence of other causes These were treated by a multidisciplinary team, and the patient achieved full recovery after three weeks This case highlights the fact that normal CXR does not rule out COVID-19 pneumonia even in the severely hypoxic patient requiring NIV Also, it is important to investigate for other potential causes of hypoxia in a deteriorating patient, such as pulmonary embolism and non-COVID causes of pneumonia
+
+Result # 4: cord-uid ni57jhjo 
+Title: 
+ Comparison of the clinical and CT features between COVID-19 and H1N1 influenza pneumonia patients in Zhejiang, China. 
+Abstract: 
+OBJECTIVE To explore the different clinical and CT features distinguishing COVID-19 from H1N1 influenza pneumonia. PATIENTS AND METHODS We compared two independent cohorts of COVID-19 pneumonia (n=405) and H1N1 influenza pneumonia (n=78), retrospectively. All patients were confirmed by RT-PCR. Four hundred and five cases of COVID-19 pneumonia were confirmed in nine hospitals of Zhejiang province, China from January 21 to February 20, 2020. Seventy-eight cases of H1N1 influenza pneumonia were confirmed in our hospital from January 1, 2017 to February 29, 2020. Their clinical manifestations, laboratory test results, and CT imaging characteristics were compared. RESULTS COVID-19 pneumonia patients showed less proportions of underlying diseases, fever and respiratory symptoms than those of H1N1 pneumonia patients (p<0.01). White blood cell count, neutrophilic granulocyte percentage, C-reactive protein, procalcitonin, D-Dimer, and lactate dehydrogenase in H1N1 pneumonia patients were higher than those of COVID-19 pneumonia patients (p<0.05). H1N1 pneumonia was often symmetrically located in the dorsal part of inferior lung lobes, while COVID-19 pneumonia was unusually showed as a peripheral but non-specific lobe distribution. Ground glass opacity was more common in COVID-19 pneumonia and consolidation lesions were more common in H1N1 pneumonia (p<0.01). COVID-19 pneumonia lesions showed a relatively clear margin compared with H1N1 pneumonia. Crazy-paving pattern, thickening vessels, reversed halo sign and early fibrotic lesions were more common in COVID-19 pneumonia than H1N1 pneumonia (p<0.05). Pleural effusion in COVID-19 pneumonia was significantly less common than H1N1 pneumonia (p<0.01). CONCLUSIONS Compared with H1N1 pneumonia in Zhejiang, China, the clinical manifestations of COVID-19 pneumonia were more concealed with less underlying diseases and slighter respiratory symptoms. The more common CT manifestations of COVID-19 pneumonia included ground-glass opacity with a relatively clear margin, crazy-paving pattern, thickening vessels, reversed halo sign, and early fibrotic lesions, while the less common CT manifestations of COVID-19 pneumonia included consolidation and pleural effusion.
+
+Result # 5: cord-uid lnq9ub7o 
+Title: 
+ Acute limb ischemia in a patient with Covid-19 pneumonia: a case report 
+Abstract: 
+Coronavirus disease 2019 (COVID-19) has emerged as a pandemic across the world. Hypercoagulability status in COVID-19 is one of the causes of complication from severe COVID-19 with a high risk of arterial thrombosis. Acute Limb Ischemia is a vascular emergency caused by sudden decrease in the arterial perfusion. We report the case of a 53-year-old male patient with COVID-19 Pneumonia, diagnosed with Acute Limb Ischemia. From clinical examination, which included anamnesis, physical examination, and laboratory results as well as chest X-rays, a suspicion of Acute Limb Ischemia was found in a patient with COVID-19 pneumonia. The SARS-CoV-2 real time PCR examination showed positive results. In this patient, the diagnosis of Acute Limb Ischemia with Covid-19 Pneumonia was established through a multidisciplinary approach covering the fields of pulmonology, cardiology, and thoracic and cardiovascular surgery.
+

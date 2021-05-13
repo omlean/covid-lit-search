@@ -1,0 +1,32 @@
+Query: What is the role of corticosteroids in COVID-19? 
+
+Result # 1: cord-uid u0qb7b2e 
+Title: 
+ When to call it off: Defining the role of low-dose corticosteroids in thwarting the progression of non-severe COVID-19 
+Abstract: 
+nan
+
+Result # 2: cord-uid 39cy3qyg 
+Title: 
+ The Potential Role of Radiogenomics in Precision Medicine for COVID-19. 
+Abstract: 
+nan
+
+Result # 3: cord-uid uqjk4n8j 
+Title: 
+ A key role for vitamin D binding protein in COVID-19? 
+Abstract: 
+nan
+
+Result # 4: cord-uid 9sslh4t4 
+Title: 
+ The essential role of a physiatrist in recommending a COVID-19 vaccine 
+Abstract: 
+nan
+
+Result # 5: cord-uid jluxm2r6 
+Title: 
+ Time to Reassess Tocilizumab's Role in COVID-19 Pneumonia 
+Abstract: 
+nan
+

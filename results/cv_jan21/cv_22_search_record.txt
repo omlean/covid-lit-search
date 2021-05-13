@@ -1,0 +1,32 @@
+Query: Is there any scientific evidence that any of the alternative remedies can prevent or cure COVID-19? 
+
+Result # 1: cord-uid lsu74qun 
+Title: 
+ Who Gets Cured? COVID-19 and Developing a Critical Medical Sociology and Anthropology of Cure 
+Abstract: 
+nan
+
+Result # 2: cord-uid zdpezutj 
+Title: 
+ COVID-19 vaccines: acting on the evidence 
+Abstract: 
+Diverging from tested vaccination regimens without scientific evidence could undermine public confidence in vaccines against COVID-19 and the success of a global vaccination strategy to curtail the pandemic.
+
+Result # 3: cord-uid d1v945j7 
+Title: 
+ COVID-19 and the generation of novel scientific knowledge: Evidence-based decisions and data sharing 
+Abstract: 
+RATIONALE, AIMS AND OBJECTIVES: The COVID-19 pandemic has impacted every facet of society, including medical research. This paper is the second part of a series of articles that explore the intricate relationship between the different challenges that have hindered biomedical research and the generation of novel scientific knowledge during the COVID-19 pandemic. In the first part of this series, we demonstrated that, in the context of COVID-19, the scientific community has been faced with numerous challenges with respect to (1) finding and prioritizing relevant research questions and (2) choosing study designs that are appropriate for a time of emergency. METHODS: During the early stages of the pandemic, research conducted on hydroxychloroquine (HCQ) sparked several heated debates with respect to the scientific methods used and the quality of knowledge generated. Research on HCQ is used as a case study in both papers. The authors explored biomedical databases, peer-reviewed journals, pre-print servers and media articles to identify relevant literature on HCQ and COVID-19, and examined philosophical perspectives on medical research in the context of this pandemic and previous global health challenges. RESULTS: This second paper demonstrates that a lack of research prioritization and methodological rigour resulted in the generation of fleeting and inconsistent evidence that complicated the development of public health guidelines. The reporting of scientific findings to the scientific community and general public highlighted the difficulty of finding a balance between accuracy and speed. CONCLUSIONS: The COVID-19 pandemic presented challenges in terms of (3) evaluating evidence for the purpose of making evidence-based decisions and (4) sharing scientific findings with the rest of the scientific community. This second paper demonstrates that the four challenges outlined in the first and second papers have often compounded each other and have contributed to slowing down the creation of novel scientific knowledge during the COVID-19 pandemic.
+
+Result # 4: cord-uid ks3fn9pq 
+Title: 
+ Preprinting the COVID-19 pandemic 
+Abstract: 
+The world continues to face a life-threatening viral pandemic. The virus underlying the COVID-19 disease, SARS-CoV-2, has caused over 98 million confirmed cases and 2.2 million deaths since January 2020. Although the most recent respiratory viral pandemic swept the globe only a decade ago, the way science operates and responds to current events has experienced a paradigm shift in the interim. The scientific community has responded rapidly to the COVID-19 pandemic, releasing over 125,000 COVID-19 related scientific articles within 10 months of the first confirmed case, of which more than 30,000 were hosted by preprint servers. We focused our analysis on bioRxiv and medRxiv, two growing preprint servers for biomedical research, investigating the attributes of COVID-19 preprints, their access and usage rates, as well as characteristics of their propagation on online platforms. Our data provides evidence for increased scientific and public engagement with preprints related to COVID-19 (COVID-19 preprints are accessed more, cited more, and shared more on various online platforms than non-COVID-19 preprints), as well as changes in the use of preprints by journalists and policymakers. We also find evidence for changes in preprinting and publishing behaviour: COVID-19 preprints are shorter and reviewed faster. Our results highlight the unprecedented role of preprints and preprint servers in the dissemination of COVID-19 science, and the impact of the pandemic on the scientific communication landscape.
+
+Result # 5: cord-uid mkaxuf44 
+Title: 
+ Use of gloves for the prevention of COVID-19 in healthy population: A living systematic review protocol 
+Abstract: 
+Abstract Background and aims The efficacy of using gloves by the general population to prevent COVID-19 is unknown We aim to determine the efficacy of routine glove use by the general healthy population in preventing COVID-19 This is the protocol of a living systematic review Methods We adapted an already published common protocol for multiple parallel systematic reviews to the specificities of this question We will conduct searches in PubMed/Medline, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), grey literature, and in a centralized repository in L·OVE (Living OVerview of Evidence) L·OVE is a platform that maps PICO questions to evidence from Epistemonikos database In response to the COVID-19 emergency, L·OVE was adapted to expand the range of evidence it covers and customized to group all COVID-19 evidence in one place The search will cover the period until the day before submission to a journal We will include randomized trials evaluating the effect of use of gloves in healthy population to prevent COVID-19 disease Randomized trials evaluating the effect of use of gloves during outbreaks caused by MERS-CoV and SARS-CoV, and nonrandomized studies in COVID-19 will be searched in case no direct evidence from randomized trials is found Two reviewers will independently screen each study for eligibility, extract data, and assess the risk of bias We will perform random-effects meta-analyses and use GRADE to assess the certainty of the evidence for each outcome A living, web-based version of this review will be openly available during the COVID-19 pandemic We will resubmit it if the conclusions change or there are substantial updates
+

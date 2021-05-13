@@ -1,0 +1,32 @@
+Query: What are the pros and cons for various types of masks in children aged 6 to 12 for COVID-19 prevention?  
+
+Result # 1: cord-uid 3hwoou5u 
+Title: 
+ Double-surgical-mask-with-slit and COVID-19 prevention 
+Abstract: 
+nan
+
+Result # 2: cord-uid d904faj3 
+Title: 
+ COVID-19-related weight gain in school-aged children 
+Abstract: 
+nan
+
+Result # 3: cord-uid i72bvpff 
+Title: 
+ Comparison of clinical severity and epidemiological spectrum between coronavirus disease 2019 and influenza in children 
+Abstract: 
+Data on the novel coronavirus disease 2019 (COVID-19) in children are limited, and studies from Europe are scarce. We analyzed the clinical severity and epidemiologic aspects of COVID-19 in consecutive children aged 0-18 years, referred with a suspicion of COVID-19 between February 1, and April 15, 2020. RT-PCR on a nasopharyngeal swab was used to confirm COVID-19. 319 children met the criteria of a suspected case. COVID-19 was diagnosed in 15/319 (4.7%) patients (8 male; mean age 10.5 years). All of them had household contact with an infected relative. Five (33.3%) patients were asymptomatic. In 9/15 (60.0%) children, the course of the disease was mild, and in 1/15 (6.7%), it was moderate, with the following symptoms: fever (46.7%), cough (40%), diarrhea (20%), vomiting (13.3%), rhinitis (6.7%), and shortness of breath (6.7%). In the COVID-19-negative patients, other infections were confirmed, including influenza in 32/319 (10%). The clinical course of COVID-19 and influenza differed significantly based on the clinical presentation. In conclusion, the clinical course of COVID-19 in children is usually mild or asymptomatic. In children suspected of having COVID-19, other infections should not be overlooked. The main risk factor for COVID-19 in children is household contact with an infected relative.
+
+Result # 4: cord-uid pioznteo 
+Title: 
+ Covid-19: Pfizer reports 100% vaccine efficacy in children aged 12 to 15. 
+Abstract: 
+nan
+
+Result # 5: cord-uid 59nvb08e 
+Title: 
+ COVID-19 Infection: Use of Face Masks in Children in Community Settings 
+Abstract: 
+nan
+

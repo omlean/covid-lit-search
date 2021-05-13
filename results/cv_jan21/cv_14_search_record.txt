@@ -1,0 +1,32 @@
+Query: What are the genetic and immunologic underpinnings of severe COVID-19? 
+
+Result # 1: cord-uid 0ounu8ii 
+Title: 
+ Genetic risks and association with severe COVID-19 among global populations. 
+Abstract: 
+nan
+
+Result # 2: cord-uid 7dc3vz3d 
+Title: 
+ Common variants at 21q22.3 locus influence MX1 and TMPRSS2 gene expression and susceptibility to severe COVID-19 
+Abstract: 
+The established risk factors of coronavirus disease 2019 (COVID-19) are advanced age, male sex and comorbidities, but they do not fully explain the wide spectrum of disease manifestations. Genetic factors implicated in the host antiviral response provide for novel insights into its pathogenesis. We performed an in-depth genetic analysis of chromosome 21 exploiting the genome-wide association study data, including 6,406 individuals hospitalized for COVID-19 and 902,088 controls with European genetic ancestry from the COVID-19 Host Genetics Initiative. We found that five single nucleotide polymorphisms within TMPRSS2 and near MX1 gene show associations with severe COVID-19. The minor alleles of the five SNPs correlated with a reduced risk of developing severe COVID-19 and high level of MX1 expression in blood. Our findings demonstrate that host genetic factors can influence the different clinical presentations of COVID-19 and that MX1 could be a potential therapeutic target.
+
+Result # 3: cord-uid 9hkbq0ih 
+Title: 
+ Common variants at 21q22.3 locus influence MX1 and TMPRSS2 gene expression and susceptibility to severe COVID-19 
+Abstract: 
+The established risk factors of coronavirus disease 2019 (COVID-19) are advanced age, male sex, and comorbidities, but they do not fully explain the wide spectrum of disease manifestations. Genetic factors implicated in the host antiviral response provide for novel insights into its pathogenesis. We performed an in-depth genetic analysis of chromosome 21 exploiting the genome-wide association study data, including 6,406 individuals hospitalized for COVID-19 and 902,088 controls with European genetic ancestry from the COVID-19 Host Genetics Initiative. We found that five single nucleotide polymorphisms within TMPRSS2 and near MX1 gene show associations with severe COVID-19. The minor alleles of the five single nucleotide polymorphisms (SNPs) correlated with a reduced risk of developing severe COVID-19 and high level of MX1 expression in blood. Our findings demonstrate that host genetic factors can influence the different clinical presentations of COVID-19 and that MX1 could be a potential therapeutic target.
+
+Result # 4: cord-uid vatg0dwt 
+Title: 
+ Diabetes predicts severity of COVID-19 infection in a retrospective cohort: A mediatory role of the inflammatory biomarker C-reactive protein 
+Abstract: 
+Diabetes is a risk factor for developing severe COVID-19, but the pathogenesis remains unclear. We investigated if the association of diabetes and COVID-19 severity may be mediated by inflammation. We also hypothesized that this increased risk may extend to prediabetes. Hospitalized patients in Singapore with COVID-19 were subdivided into three groups in a retrospective cohort: normoglycemia (HbA1c: &#8804;5.6%), prediabetes (HbA1c: 5.7%-6.4%) and diabetes (HbA1c: &#8805;6.5%). The primary outcome of severe COVID-19 was defined by respiratory rate &#8805;30, SpO2 &#8804;93% or intensive care unit admission. The association between clinical factors on severe COVID-19 outcome was analyzed by cox regression. Adjusted mediation analysis of C-reactive protein (CRP) on the relationship between diabetes and severe COVID-19 was performed. Of 1042 hospitalized patients, mean age 39 ± 11 years, 13% had diabetes, 9% prediabetes and 78% normoglycemia. Severe COVID-19 occurred in 4.9% of subjects. Compared to normoglycemia, diabetes was significantly associated with severe COVID-19 on both univariate (hazard ratio [HR]: 9.94; 95% confidence interval [CI]: 5.54-17.84; p < .001) and multivariate analysis (HR: 3.99; 95% CI: 1.92-8.31; p < .001), while prediabetes was not a risk factor (HR: 0.94; 95% CI: 0.22-4.03; p = .929). CRP, a biomarker of inflammation, mediated 32.7% of the total association between diabetes and severe COVID-19 outcome. In conclusion, CRP is a partial mediator of the association between diabetes and severe COVID-19 infection, confirming that inflammation is important in the pathogenesis of severe COVID-19 in diabetes.
+
+Result # 5: cord-uid izi9cvqh 
+Title: 
+ Myocardial injury in severe COVID-19 is similar to pneumonias of other origin: results from a multicentre study 
+Abstract: 
+AIMS: COVID-19, a respiratory viral disease causing severe pneumonia, also affects the heart and other organs. Whether its cardiac involvement is a specific feature consisting of myocarditis, or simply due to microvascular injury and systemic inflammation, is yet unclear and presently debated. Because myocardial injury is also common in other kinds of pneumonias, we investigated and compared such occurrence in severe pneumonias due to COVID-19 and other causes. METHODS AND RESULTS: We analysed data from 156 critically ill patients requiring mechanical ventilation in four European tertiary hospitals, including all n = 76 COVID-19 patients with severe disease course requiring at least ventilatory support, matched to n = 76 from a retrospective consecutive patient cohort of severe pneumonias of other origin (matched for age, gender, and type of ventilator therapy). When compared to the non-COVID-19, mortality (COVID-19 = 38.2% vs. non-COVID-19 = 51.3%, P = 0.142) and impairment of systolic function were not significantly different. Surprisingly, myocardial injury was even more frequent in non-COVID-19 (96.4% vs. 78.1% P = 0.004). Although inflammatory activity [C-reactive protein (CRP) and interleukin-6] was indifferent, d-dimer and thromboembolic incidence (COVID-19 = 23.7% vs. non-COVID-19 = 5.3%, P = 0.002) driven by pulmonary embolism rates (COVID-19 = 17.1% vs. non-COVID-19 = 2.6%, P = 0.005) were higher. CONCLUSIONS: Myocardial injury was frequent in severe COVID-19 requiring mechanical ventilation, but still less frequent than in similarly severe pneumonias of other origin, indicating that cardiac involvement may not be a specific feature of COVID-19. While mortality was also similar, COVID-19 is characterized with increased thrombogenicity and high pulmonary embolism rates.
+

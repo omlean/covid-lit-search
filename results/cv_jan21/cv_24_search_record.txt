@@ -1,0 +1,32 @@
+Query: What computational predictions of SARS-CoV-2 mutations have been confirmed? 
+
+Result # 1: cord-uid 5k9an2fj 
+Title: 
+ [Mutations, variants and strains of SARS-CoV-2]./ Mutaciones, variantes y cepas de SARS-CoV-2 
+Abstract: 
+nan
+
+Result # 2: cord-uid yafz880a 
+Title: 
+ Differentially conserved amino acid positions may reflect differences in SARS-CoV-2 and SARS-CoV behaviour 
+Abstract: 
+MOTIVATION: SARS-CoV-2 is a novel coronavirus currently causing a pandemic. Here, we performed a combined in-silico and cell culture comparison of SARS-CoV-2 and the closely related SARS-CoV. RESULTS: Many amino acid positions are differentially conserved between SARS-CoV-2 and SARS-CoV, which reflects the discrepancies in virus behaviour, i.e. more effective human-to-human transmission of SARS-CoV-2 and higher mortality associated with SARS-CoV. Variations in the S protein (mediates virus entry) were associated with differences in its interaction with ACE2 (cellular S receptor) and sensitivity to TMPRSS2 (enables virus entry via S cleavage) inhibition. Anti-ACE2 antibodies more strongly inhibited SARS-CoV than SARS-CoV-2 infection, probably due to a stronger SARS-CoV-2 S-ACE2 affinity relative to SARS-CoV S. Moreover, SARS-CoV-2 and SARS-CoV displayed differences in cell tropism. Cellular ACE2 and TMPRSS2 levels did not indicate susceptibility to SARS-CoV-2. In conclusion, we identified genomic variation between SARS-CoV-2 and SARS-CoV that may reflect the differences in their clinical and biological behaviour. SUPPLEMENTARY INFORMATION: Supplementary data are available at Bioinformatics online.
+
+Result # 3: cord-uid xpy6qe08 
+Title: 
+ Combining Computational Modeling with Library Screening to Adapt SARS-CoV-Neutralizing Antibody 80R to SARS-CoV-2 
+Abstract: 
+nan
+
+Result # 4: cord-uid ltn48v7j 
+Title: 
+ In silico characterization of mutations circulating in SARS-CoV-2 structural proteins 
+Abstract: 
+SARS-CoV-2 has recently emerged as a pandemic that has caused more than 2.4 million deaths worldwide. Since the onset of infections, several full-length sequences of viral genome have been made available which have been used to gain insights into viral dynamics. We utilised a meta-data driven comparative analysis tool for sequences (Meta-CATS) algorithm to identify mutations in 829 SARS-CoV-2 genomes from around the world. The algorithm predicted sixty-one mutations among SARS-CoV-2 genomes. We observed that most of the mutations were concentrated around three protein coding genes viz nsp3 (non-structural protein 3), RdRp (RNA-directed RNA polymerase) and Nucleocapsid (N) proteins of SARS-CoV-2. We used various computational tools including normal mode analysis (NMA), C-&#945; discrete molecular dynamics (DMD) and all-atom molecular dynamic simulations (MD) to study the effect of mutations on functionality, stability and flexibility of SARS-CoV-2 structural proteins including envelope (E), N and spike (S) proteins. PredictSNP predictor suggested that four mutations (L37H in E, R203K and P344S in N and D614G in S) out of seven were predicted to be neutral whilst the remaining ones (P13L, S197L and G204R in N) were predicted to be deleterious in nature thereby impacting protein functionality. NMA, C-&#945; DMD and all-atom MD suggested some mutations to have stabilizing roles (P13L, S197L and R203K in N protein) where remaining ones were predicted to destabilize mutant protein. In summary, we identified significant mutations in SARS-CoV-2 genomes as well as used computational approaches to further characterize the possible effect of highly significant mutations on SARS-CoV-2 structural proteins.Communicated by Ramaswamy H. Sarma.
+
+Result # 5: cord-uid et2n4dnl 
+Title: 
+ In silico characterization of mutations circulating in SARS-CoV-2 structural proteins 
+Abstract: 
+SARS-CoV-2 has recently emerged as a pandemic that has caused more than 2.4 million deaths worldwide. Since the onset of infections, several full-length sequences of viral genome have been made available which have been used to gain insights into viral dynamics. We utilised a meta-data driven comparative analysis tool for sequences (Meta-CATS) algorithm to identify mutations in 829 SARS-CoV-2 genomes from around the world. The algorithm predicted sixty-one mutations among SARS-CoV-2 genomes. We observed that most of the mutations were concentrated around three protein coding genes viz nsp3 (non-structural protein 3), RdRp (RNA-directed RNA polymerase) and Nucleocapsid (N) proteins of SARS-CoV-2. We used various computational tools including normal mode analysis (NMA), C-α discrete molecular dynamics (DMD) and all-atom molecular dynamic simulations (MD) to study the effect of mutations on functionality, stability and flexibility of SARS-CoV-2 structural proteins including envelope (E), N and spike (S) proteins. PredictSNP predictor suggested that four mutations (L37H in E, R203K and P344S in N and D614G in S) out of seven were predicted to be neutral whilst the remaining ones (P13L, S197L and G204R in N) were predicted to be deleterious in nature thereby impacting protein functionality. NMA, C-α DMD and all-atom MD suggested some mutations to have stabilizing roles (P13L, S197L and R203K in N protein) where remaining ones were predicted to destabilize mutant protein. In summary, we identified significant mutations in SARS-CoV-2 genomes as well as used computational approaches to further characterize the possible effect of highly significant mutations on SARS-CoV-2 structural proteins. Communicated by Ramaswamy H. Sarma
+

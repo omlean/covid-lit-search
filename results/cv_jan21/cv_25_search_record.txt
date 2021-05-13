@@ -1,0 +1,32 @@
+Query: How clean Is the air in passenger aircrafts and what are the COVID-19 risk reduction steps for airports and airlines? 
+
+Result # 1: cord-uid 5uil1d8w 
+Title: 
+ COVID-19 and clean air: an opportunity for radical change. 
+Abstract: 
+nan
+
+Result # 2: cord-uid zljf3qj7 
+Title: 
+ COVID-19 Pandemic: A Wake-Up Call for Clean Air. 
+Abstract: 
+nan
+
+Result # 3: cord-uid 9t7ow0nr 
+Title: 
+ Analyzing the Risk to COVID-19 Infection using Remote Sensing and GIS. 
+Abstract: 
+Globally, the COVID-19 pandemic has become a threat to humans and to the socioeconomic systems they have developed since the industrial revolution. Hence, governments and stakeholders call for strategies to help restore normalcy while dealing with this pandemic effectively. Since till now, the disease is yet to have a cure; therefore, only risk-based decision making can help governments achieve a sustainable solution in the long term. To help the decisionmakers explore viable actions, we propose a risk-based assessment framework for analyzing COVID-19 risk to areas, using integrated hazard and vulnerability components associated with this pandemic for effective risk mitigation. The study is carried on a region administrated by Jaipur municipal corporation (JMC), India. Based on the current understanding of this disease, we hypothesized different COVID-19 risk indices (C19Ri) of the wards of JMC such as proximity to hotspots, total population, population density, availability of clean water, and associated land use/land cover, are related with COVID-19 contagion and calculated them in a GIS-based multicriteria risk reduction method. The results showed disparateness in COVID-19 risk areas with a higher risk in north-eastern and south-eastern zone wards within the boundary of JMC. We proposed prioritizing wards under higher risk zones for intelligent decision making regarding COVID-19 risk reduction through appropriate management of resources-related policy consequences. This study aims to serve as a baseline study to be replicated in other parts of the country or world to eradicate the threat of COVID-19 effectively.
+
+Result # 4: cord-uid h8pl8ig0 
+Title: 
+ Outcome Reporting Bias in COVID-19 mRNA Vaccine Clinical Trials 
+Abstract: 
+Relative risk reduction and absolute risk reduction measures in the evaluation of clinical trial data are poorly understood by health professionals and the public. The absence of reported absolute risk reduction in COVID-19 vaccine clinical trials can lead to outcome reporting bias that affects the interpretation of vaccine efficacy. The present article uses clinical epidemiologic tools to critically appraise reports of efficacy in Pfzier/BioNTech and Moderna COVID-19 mRNA vaccine clinical trials. Based on data reported by the manufacturer for Pfzier/BioNTech vaccine BNT162b2, this critical appraisal shows: relative risk reduction, 95.1%; 95% CI, 90.0% to 97.6%; p = 0.016; absolute risk reduction, 0.7%; 95% CI, 0.59% to 0.83%; p < 0.000. For the Moderna vaccine mRNA-1273, the appraisal shows: relative risk reduction, 94.1%; 95% CI, 89.1% to 96.8%; p = 0.004; absolute risk reduction, 1.1%; 95% CI, 0.97% to 1.32%; p < 0.000. Unreported absolute risk reduction measures of 0.7% and 1.1% for the Pfzier/BioNTech and Moderna vaccines, respectively, are very much lower than the reported relative risk reduction measures. Reporting absolute risk reduction measures is essential to prevent outcome reporting bias in evaluation of COVID-19 vaccine efficacy.
+
+Result # 5: cord-uid 90gheikf 
+Title: 
+ A COVID-19 Risk Reduction Assessment for a Health-Care Employee from an Ethnic Background: A Case Study in the United Kingdom 
+Abstract: 
+Concerns in the United Kingdom (UK) that Black, Asian and Minority Ethnic (BAME) populations have disproportionately higher rates of coronavirus disease 2019 (COVID-19) than white populations have led to ethnicity being identified as a risk factor within the latest guidance from Public Health England. The purpose of this case report was to determine whether the risk reduction assessment would aid the line manager support a BAME health-care employee who was concerned that his ethnicity put him at greater risk of contracting COVID-19. This report described the case, protocol, and outcome of undertaking a risk reduction assessment. It is concluded that the risk reduction assessment may assist line managers implement appropriate adjustments for BAME employees in order to alleviate their concerns and mitigate the risks of COVID-19.
+

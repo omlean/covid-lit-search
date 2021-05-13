@@ -1,0 +1,32 @@
+Query: What is the diagnostic accuracy of the available COVID-19 tests? 
+
+Result # 1: cord-uid wp80fdo9 
+Title: 
+ Urine foaming test, a promising diagnostic test for COVID-19 infection 
+Abstract: 
+nan
+
+Result # 2: cord-uid 7zluevbw 
+Title: 
+ Health Care Professionals' Confidence and Preferences for Diagnostic Assays for SARS-CoV-2: A Global Study 
+Abstract: 
+Background: The COVID-19 pandemic has led to an urgent requirement for novel diagnostic tests that determine infection with SARS-CoV-2 and the development of an immune response against it. The perspective of end users on the characteristics and clinical use of these assays has not been previously considered. Methods: We surveyed 17,186 health care professions (HCPs) in 29 countries to gauge opinion on the design, use, diagnostic impact and diagnostic accuracy of COVID-19 tests. Results were correlated with national statistics on the burden of disease and testing in individual countries. Results: HCPs overwhelmingly recognized the importance of COVID-19 tests but 37.1% were unsure of the appropriate timing of investigations relative to disease symptoms. Confidence in the diagnostic accuracy of assays varied inversely with COVID-19-related mortality in individual countries but had no relationship with the total number of tests performed. There was global consensus that the most important impact of positive antigen and antibody testing was confidence in returning to work following recovery. Saliva was the preferred sampling fluid for COVID-19 diagnostic tests in all groups surveyed. Conclusions: HCP input can ensure novel assays are fit for purpose in varied global health care settings, but HCPs may require support to effectively use novel diagnostics thus minimizing waste when supplies are limited.
+
+Result # 3: cord-uid zzegbnzg 
+Title: 
+ Limiting Patient Autonomy: Mandatory COVID-19 Diagnostic Testing. 
+Abstract: 
+nan
+
+Result # 4: cord-uid 15cvo93w 
+Title: 
+ Teledermoscopy as a community based diagnostic test in the era of COVID-19? 
+Abstract: 
+nan
+
+Result # 5: cord-uid 0b3iywku 
+Title: 
+ Diagnostic value of plasma viscosity testing for patients with COVID-19. 
+Abstract: 
+nan
+

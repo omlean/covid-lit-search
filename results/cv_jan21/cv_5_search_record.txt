@@ -1,0 +1,32 @@
+Query: What are the safety, tolerability, and immunogenicity properties of COVID-19 vaccines? 
+
+Result # 1: cord-uid dvf7fvbp 
+Title: 
+ Correction to: Assessing the Safety of COVID-19 Vaccines: A Primer 
+Abstract: 
+nan
+
+Result # 2: cord-uid ms8la4s0 
+Title: 
+ Developing standard safety outcomes for COVID-19 vaccines 
+Abstract: 
+nan
+
+Result # 3: cord-uid rhl4pnt8 
+Title: 
+ Second HPRA safety update on COVID-19 vaccines 
+Abstract: 
+nan
+
+Result # 4: cord-uid 19rmccqa 
+Title: 
+ HPRA safety update on BioNTech and Moderna COVID-19 vaccines 
+Abstract: 
+nan
+
+Result # 5: cord-uid f9nju9ji 
+Title: 
+ Safety of new MRNA Vaccines Against COVID-19 in Severe Allergic Patients. 
+Abstract: 
+nan
+

@@ -1,0 +1,32 @@
+Query: How do cytokine pathways link sleep and immunity to infection and COVID-19? 
+
+Result # 1: cord-uid 72wx9bg6 
+Title: 
+ Sleep and COVID-19, the history of sleep, chronobiology and insomnia 
+Abstract: 
+nan
+
+Result # 2: cord-uid 21spqhjw 
+Title: 
+ COVID-19 cytokine storm: targeting the appropriate cytokine 
+Abstract: 
+nan
+
+Result # 3: cord-uid 1rbtbxos 
+Title: 
+ Sleep research in 2020: COVID-19-related sleep disorders 
+Abstract: 
+nan
+
+Result # 4: cord-uid smwrcv1c 
+Title: 
+ Immunopathogenesis and treatment of cytokine storm in COVID-19 
+Abstract: 
+Severe coronavirus disease 2019 (COVID-19) is characterized by systemic hyper-inflammation, acute respiratory distress syndrome, and multiple organ failure. Cytokine storm refers to a set of clinical conditions caused by excessive immune reactions and has been recognized as a leading cause of severe COVID-19. While comparisons have been made between COVID-19 cytokine storm and other kinds of cytokine storm such as hemophagocytic lymphohistiocytosis and cytokine release syndrome, the pathogenesis of cytokine storm has not been clearly elucidated yet. Recent studies have shown that impaired response of type-1 IFNs in early stage of COVID-19 infection played a major role in the development of cytokine storm, and various cytokines such as IL-6 and IL-1 were involved in severe COVID-19. Furthermore, many clinical evidences have indicated the importance of anti-inflammatory therapy in severe COVID-19. Several approaches are currently being used to treat the observed cytokine storm associated with COVID-19, and expectations are especially high for new cytokine-targeted therapies, such as tocilizumab, anakinra, and baricitinib. Although a number of studies have been conducted on anti-inflammatory treatments for severe COVID-19, no specific recommendations have been made on which drugs should be used for which patients and when. In this review, we provide an overview of cytokine storm in COVID-19 and treatments currently being used to address it. In addition, we discuss the potential therapeutic role of extracorporeal cytokine removal to treat the cytokine storm associated with COVID-19.
+
+Result # 5: cord-uid x887erda 
+Title: 
+ Expectant Management of Severe COVID-19 Pneumonia in Late Preterm Pregnancy and Subsequent Cholecystitis: Lessons Learned 
+Abstract: 
+Introduction Since the emergence of coronavirus disease 2019 (COVID-19) as a pandemic in March 2020, research and guidance have been published with regard to the management of infection and considerations in pregnancy, but much is still unknown Pregnant women with COVID-19 infection are more likely to be hospitalized and are at increased risk for intensive care unit admissions and intubation than nonpregnant women with COVID-19 infection The optimal timing of delivery among pregnant women with COVID-19 infection has not been established at this time, especially when the infection arises in late preterm and early term gestation It is suggested that COVID-19 infection should not be considered a sole indication for delivery The risks and benefits of prolonging pregnancy versus delivery should be taken into consideration at any given gestational age in a patient with COVID-19 infection Case Report We report a case of a patient in the late third trimester of pregnancy that presented with severe COVID-19 infection and was managed expectantly through her disease course with improvement of respiratory status without necessitating delivery We also discuss the unique development of cholecystitis in her hospitalization that may represent another clinical association to COVID-19 infection Conclusion This case illustrates that delaying delivery is an option even in later gestational ages for maternal stabilization A multidisciplinary approach and teamwork is needed to manage pregnant women with COVID-19 infection for optimal outcomes for both mother and fetus Key Points Delaying delivery in severe coronavirus disease 2019 (COVID-19) infection is a reasonable option even in late gestation A multidisciplinary team is of utmost importance when managing a pregnant woman with COVID-19 Other clinical sequalae such as cholecystitis may arise in the setting of COVID-19 infection
+

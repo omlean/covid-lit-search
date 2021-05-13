@@ -1,0 +1,32 @@
+Query: Which COVID-19 vaccine trials were paused and what were the health safety concerns? 
+
+Result # 1: cord-uid jgydghd4 
+Title: 
+ COVID-10 vaccine safety monitoring in US: no serious concerns 
+Abstract: 
+nan
+
+Result # 2: cord-uid b0x84n4e 
+Title: 
+ A Commentary on Realities of Developing COVID-19 Vaccines Discussed through the Global Health Safety Perspective 
+Abstract: 
+SARS-CoV-2 (or simply COVID-19) remains to be a global pandemic issue affecting millions, thus urging the world’s scientific community to develop efficient vaccine and design adequate measures of disease control. Currently, the most economically viable solution to infections and viruses is vaccination, despite the possible concerns about side effects from implementing quickly developed vaccine. The current commentary intends to explain the health and safety related to COVID-19 vaccines via a prism of global health safety. Scientists across the globe, along with companies from both public and private sectors, have predictably arranged cooperative programs to learn about COVID-19, along with taking simultaneous steps on devising vaccine and preparing effective treatments plans. Presently, several clinical trials to approve the efficiency of proposed vaccine solutions have been made successfully. Global health safety concerns on vaccine’s efficiency such as high costs of production, provision of vaccine to developing countries, and its influence on the global economy are addressed. This commentary reflects on current efforts related to the development of vaccine against COVID-19, which currently affects the global health status and economy. In addition, the commentary aims at addressing potential risks related to the development of COVID-19 vaccine from the global health safety perspective.
+
+Result # 3: cord-uid 7mjr87h6 
+Title: 
+ A Commentary on Realities of Developing COVID-19 Vaccines Discussed through the Global Health Safety Perspective 
+Abstract: 
+SARS-CoV-2 (or simply COVID-19) remains to be a global pandemic issue affecting millions, thus urging the world's scientific community to develop efficient vaccine and design adequate measures of disease control. Currently, the most economically viable solution to infections and viruses is vaccination, despite the possible concerns about side effects from implementing quickly developed vaccine. The current commentary intends to explain the health and safety related to COVID-19 vaccines via a prism of global health safety. Scientists across the globe, along with companies from both public and private sectors, have predictably arranged cooperative programs to learn about COVID-19, along with taking simultaneous steps on devising vaccine and preparing effective treatments plans. Presently, several clinical trials to approve the efficiency of proposed vaccine solutions have been made successfully. Global health safety concerns on vaccine's efficiency such as high costs of production, provision of vaccine to developing countries, and its influence on the global economy are addressed. This commentary reflects on current efforts related to the development of vaccine against COVID-19, which currently affects the global health status and economy. In addition, the commentary aims at addressing potential risks related to the development of COVID-19 vaccine from the global health safety perspective.
+
+Result # 4: cord-uid 8sjxyl8p 
+Title: 
+ Safety update on COVID-19 vaccine Comirnaty finds no new concerns 
+Abstract: 
+nan
+
+Result # 5: cord-uid 3clcfmr2 
+Title: 
+ Exploring the Willingness to Accept SARS-CoV-2 Vaccine in a University Population in Southern Italy, September to November 2020 
+Abstract: 
+Understanding whether members of the university population are willing to receive a future vaccination against COVID-19 and identifying barriers may help public health authorities to develop effective strategies and interventions to contain COVID-19. This cross-sectional study explored the willingness to accept a future SARS-CoV-2 vaccine in a university population in Southern Italy. The perceived risk level of developing COVID-19 was 6.5 and it was significantly higher among females, younger subjects, and those who agreed/strongly agreed that COVID-19 is a severe disease. Only 21.4% of respondents were not worried at all regarding the safety of the vaccine. Males, not being married/cohabitant, being a faculty member, those who perceived a lower risk of developing COVID-19, and those who did not need information regarding the vaccination against COVID-19 were significantly more likely to have no concern at all regarding the safety of the vaccine. The vast majority (84.1%) were willing to receive a future vaccine against COVID-19. Almost coherently with predictors of concern on the safety of the vaccine, being male, not being married/cohabitant, being a faculty member, not being concerned at all that COVID-19 vaccination might not be safe, and agreeing that COVID-19 can have serious health consequences were significant predictors of the willingness to receive the vaccine against COVID-19. A considerable proportion of the population had a positive willingness to receive the future COVID-19 vaccine, although some concerns have been expressed regarding the effectiveness and safety and public health activities seem necessary to achieve the rate that can lead to the protection of the community.
+

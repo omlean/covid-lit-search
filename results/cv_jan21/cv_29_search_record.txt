@@ -1,0 +1,32 @@
+Query: What studies are measuring risk factors  of daily life activities during COVID-19? 
+
+Result # 1: cord-uid pvhz4g6h 
+Title: 
+ Identifying COVID-19 Risk Through Observational Studies to Inform Control Measures. 
+Abstract: 
+nan
+
+Result # 2: cord-uid krji99ce 
+Title: 
+ Population risk factors for severe disease and mortality in COVID-19: A global systematic review and meta-analysis 
+Abstract: 
+AIM: COVID-19 clinical presentation is heterogeneous, ranging from asymptomatic to severe cases. While there are a number of early publications relating to risk factors for COVID-19 infection, low sample size and heterogeneity in study design impacted consolidation of early findings. There is a pressing need to identify the factors which predispose patients to severe cases of COVID-19. For rapid and widespread risk stratification, these factors should be easily obtainable, inexpensive, and avoid invasive clinical procedures. The aim of our study is to fill this knowledge gap by systematically mapping all the available evidence on the association of various clinical, demographic, and lifestyle variables with the risk of specific adverse outcomes in patients with COVID-19. METHODS: The systematic review was conducted using standardized methodology, searching two electronic databases (PubMed and SCOPUS) for relevant literature published between 1st January 2020 and 9th July 2020. Included studies reported characteristics of patients with COVID-19 while reporting outcomes relating to disease severity. In the case of sufficient comparable data, meta-analyses were conducted to estimate risk of each variable. RESULTS: Seventy-six studies were identified, with a total of 17,860,001 patients across 14 countries. The studies were highly heterogeneous in terms of the sample under study, outcomes, and risk measures reported. A large number of risk factors were presented for COVID-19. Commonly reported variables for adverse outcome from COVID-19 comprised patient characteristics, including age >75 (OR: 2.65, 95% CI: 1.81-3.90), male sex (OR: 2.05, 95% CI: 1.39-3.04) and severe obesity (OR: 2.57, 95% CI: 1.31-5.05). Active cancer (OR: 1.46, 95% CI: 1.04-2.04) was associated with increased risk of severe outcome. A number of common symptoms and vital measures (respiratory rate and SpO2) also suggested elevated risk profiles. CONCLUSIONS: Based on the findings of this study, a range of easily assessed parameters are valuable to predict elevated risk of severe illness and mortality as a result of COVID-19, including patient characteristics and detailed comorbidities, alongside the novel inclusion of real-time symptoms and vital measurements.
+
+Result # 3: cord-uid ge7wv5av 
+Title: 
+ Population risk factors for severe disease and mortality in COVID-19: A global systematic review and meta-analysis 
+Abstract: 
+AIM: COVID-19 clinical presentation is heterogeneous, ranging from asymptomatic to severe cases. While there are a number of early publications relating to risk factors for COVID-19 infection, low sample size and heterogeneity in study design impacted consolidation of early findings. There is a pressing need to identify the factors which predispose patients to severe cases of COVID-19. For rapid and widespread risk stratification, these factors should be easily obtainable, inexpensive, and avoid invasive clinical procedures. The aim of our study is to fill this knowledge gap by systematically mapping all the available evidence on the association of various clinical, demographic, and lifestyle variables with the risk of specific adverse outcomes in patients with COVID-19. METHODS: The systematic review was conducted using standardized methodology, searching two electronic databases (PubMed and SCOPUS) for relevant literature published between 1(st) January 2020 and 9(th) July 2020. Included studies reported characteristics of patients with COVID-19 while reporting outcomes relating to disease severity. In the case of sufficient comparable data, meta-analyses were conducted to estimate risk of each variable. RESULTS: Seventy-six studies were identified, with a total of 17,860,001 patients across 14 countries. The studies were highly heterogeneous in terms of the sample under study, outcomes, and risk measures reported. A large number of risk factors were presented for COVID-19. Commonly reported variables for adverse outcome from COVID-19 comprised patient characteristics, including age >75 (OR: 2.65, 95% CI: 1.81–3.90), male sex (OR: 2.05, 95% CI: 1.39–3.04) and severe obesity (OR: 2.57, 95% CI: 1.31–5.05). Active cancer (OR: 1.46, 95% CI: 1.04–2.04) was associated with increased risk of severe outcome. A number of common symptoms and vital measures (respiratory rate and SpO2) also suggested elevated risk profiles. CONCLUSIONS: Based on the findings of this study, a range of easily assessed parameters are valuable to predict elevated risk of severe illness and mortality as a result of COVID-19, including patient characteristics and detailed comorbidities, alongside the novel inclusion of real-time symptoms and vital measurements.
+
+Result # 4: cord-uid fr5imdvr 
+Title: 
+ TB and COVID-19: measuring key risk factors that affect treatment outcomes. 
+Abstract: 
+nan
+
+Result # 5: cord-uid z8j17uh3 
+Title: 
+ Risk factors for mortality in hospitalized patients with COVID-19: a study in Milan, Italy 
+Abstract: 
+nan
+

@@ -81,8 +81,9 @@ def tfidf_search(query, vectorizer, term_document_matrix, index, num_top_results
     print('Complete')
     
     top_results = np.argsort(scores)[:num_top_results]
+    top_results = np.array(top_results)
     
-    uids = index[top_results]
+    uids = [index[i] for i in top_results]
     print(f'Returned top {num_top_results} results.')
     
     return uids
