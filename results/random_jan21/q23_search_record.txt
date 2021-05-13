@@ -1,0 +1,32 @@
+Query: How do  mutations in SARS-CoV-2 impact its infectivity and antigenicity? 
+
+Result # 1: cord-uid vfrd2kgs 
+Title: 
+ Psychological implications on stoma patients waiting for reversal in the era of COVID-19 pandemic 
+Abstract: 
+nan
+
+Result # 2: cord-uid n4kq0023 
+Title: 
+ CD169/SIGLEC1 is expressed on circulating monocytes in COVID-19 and expression levels are associated with disease severity 
+Abstract: 
+Coronavirus disease 2019 (COVID-19) is caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Type I interferons are important in the defense of viral infections. Recently, neutralizing IgG auto-antibodies against type I interferons were found in patients with severe COVID-19 infection. Here, we analyzed expression of CD169/SIGLEC1, a well described downstream molecule in interferon signaling, and found increased monocytic CD169/SIGLEC1 expression levels in patients with mild, acute COVID-19, compared to patients with severe disease. We recommend further clinical studies to evaluate the value of CD169/SIGLEC1 expression in patients with COVID-19 with or without auto-antibodies against type I interferons.
+
+Result # 3: cord-uid kn3yxxf4 
+Title: 
+ Reactivation of SARS-CoV-2 infection following recovery from COVID-19 
+Abstract: 
+INTRODUCTION: Many individuals test positive for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA after recovering from the coronavirus disease (COVID-19), but the incidence of reactivation is unknown. We, therefore, estimated the incidence of reactivation among individuals who had recovered from COVID-19 and determined its predictors. METHODS: In this retrospective cohort study, patients with COVID-19 were followed up for at least 14 days after two consecutive negative SARS-CoV-2 polymerase chain reaction test results obtained &#8805;24â¯h apart, and the frequency of SARS-CoV-2 reactivation was assessed. RESULTS: Of the 109 patients, 29 (27%) experienced reactivation, and seven (24%) of these were symptomatic. The mean period for the real-time PCR tests for SARS-CoV-2 from negative to positive results was 17 days. Compared with patients without reactivation, those with reactivation were significantly younger and more likely to have a lymphocyte count of <1500/µL (odds ratio [OR]: 0.34, 95% confidence interval [CI]: 0.12-0.94) and two or fewer symptoms (OR: 0.20, 95% CI: 0.07-0.55) during the initial episode. CONCLUSION: Risk-stratified surveillance should be conducted among patients who have recovered from COVID-19.
+
+Result # 4: cord-uid ctlq05qe 
+Title: 
+ Rethinking heart failure care and health technologies from early COVID-19 experiences - A narrative review. 
+Abstract: 
+Heart Failure (HF), a common chronic disease, requires multidisciplinary care to optimise outcomes. The COVID-19 pandemic, its impact on people's movement and access to health services, introduced severe challenges to chronic disease management. The era that will evolve after this pandemic is likely to provide uncertainty and service model disruptions. HF treatment is based on guidelines derived from randomised clinical trial evidence. Translational shortfalls from trials into practice have been overcome with post-trial service improvement studies like OPTIMIZE-HF where a team using a process of care can translate evidence to the general population. However, gaps remain for vulnerable populations e.g. those with more severe HF, with multiple comorbid conditions, and certain demographic groups and/or residents in remote locations. Health technology has come with great promise, to fill some of these gaps. The COVID-19 pandemic provides an opportunity to observe, from Australian healthcare lens, HF management outside the traditional model of care. This narrative review describes relatively recent events with health technology as a solution to improve on service gaps.
+
+Result # 5: cord-uid okcichqj 
+Title: 
+ Assessing the need of young people using online counselling services: how useful are standardised measures? 
+Abstract: 
+BACKGROUND Clinical assessments for children and young people entering a mental health service help to identify the prevalence of need within that population, support intervention recommendations, and enable service evaluation. Evidence related to the use of standardised measures in an ever-expanding online environment, for the purpose of identifying need, is limited. METHODS This study explores the reliability of using a standardised measure to detect clinical need in an online therapeutic environment, and the measures assessed are as follows: Strengths and Difficulties Questionnaire (SDQ), Young Person's CORE (YP-CORE) and the Short Warwick and Edinburgh Wellbeing Scale (SWEMWBS). A deep-dive approach is used to inform practitioner assessment of young people, followed by a Weighted Cohen's Kappa (Κw) to measure the interrater reliability between this and the individuals' self-rated outcome. Composite case studies represent the complexities of presentation among the sample population. RESULTS The interrater reliability between self-rated and practitioner rated assessment varied between Κw = .222 and Κw = 0.446 depending on the measure. High levels of need and low levels of well-being were found among the sample (YP-CORE Avg. = 26.9, SDQ Avg. = 19.56, SWEMWBS Avg. = 18.1). CONCLUSIONS The findings demonstrate a fair to moderate reliability when assessing concordance between service users and practitioners, which suggests standardised measures are a reliable indicator of need. Higher levels of need were present than those seen previously in general or face-to-face clinical populations, which suggests using such measures in an online therapeutic environment influences the way in which assessments are responded to.
+

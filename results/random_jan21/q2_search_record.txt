@@ -1,0 +1,32 @@
+Query: When is it safe to discharge a COVID-19 patient with pneumonia?  
+
+Result # 1: cord-uid ysxy25xf 
+Title: 
+ Acute Rejection among Kidney Transplant Recipients during Covid-19 Pandemic: Alarming Phenomena 
+Abstract: 
+nan
+
+Result # 2: cord-uid t0a83k1t 
+Title: 
+ Differential efficiencies to neutralize the novel mutants B.1.1.7 and 501Y.V2 by collected sera from convalescent COVID-19 patients and RBD nanoparticle-vaccinated rhesus macaques 
+Abstract: 
+nan
+
+Result # 3: cord-uid 4zx2sxmy 
+Title: 
+ Author Correction: Sampling the host response to SARS-CoV-2 in hospitals under siege 
+Abstract: 
+nan
+
+Result # 4: cord-uid rbj7caua 
+Title: 
+ "Holistic Admissions" During a Pandemic: The Effects of COVID-19 on Socioeconomically Disadvantaged Medical School Applicants 
+Abstract: 
+nan
+
+Result # 5: cord-uid t5proxd1 
+Title: 
+ "Everything continued as normal": What happened to Africa's wave of Covid-19 waste? 
+Abstract: 
+nan
+

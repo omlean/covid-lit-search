@@ -1,0 +1,32 @@
+Query: How clean Is the air in passenger aircrafts and what are the COVID-19 risk reduction steps for airports and airlines? 
+
+Result # 1: cord-uid 2j6pqmvb 
+Title: 
+ Institutional logics and innovation in times of crisis: Telemedicine as digital ‘PPE’ 
+Abstract: 
+How do crises shape digital innovation? In this paper we examine the rapid adoption of digital telemedicine technologies in an Israeli hospital with a focus on the role of the institutional logics held by the stakeholders responding to emerging events With the onset of COVID-19, the need for social distancing and minimal physical contact challenged and interrupted hospital practices In response, remote audio-visual functionality of digital technologies were appropriated in different ways, as stakeholders – state actors, managers, health professionals, and family members – sought to improvise and enhance the protection of persons concerned We show how emerging practices were guided by the dominant institutional logics of stakeholders responding to the crisis Acting for many as a digital form of ‘personal protective equipment’ (PPE), the technologies enabled diverse action possibilities to become manifest in practices We add to understanding the role of institutional logics in directing the attention of stakeholders to shape digital innovation in times of crisis
+
+Result # 2: cord-uid 0wa1g7pd 
+Title: 
+ Renin-angiotensin-aldosterone inhibitors and COVID-19: nearing the end of a media-fuelled controversy 
+Abstract: 
+nan
+
+Result # 3: cord-uid wm0zb3tx 
+Title: 
+ Prospective validation and comparison of COVID-GRAM, NEWS2, 4C mortality score, CURB-65 for the prediction of critical illness in COVID-19 patients. 
+Abstract: 
+nan
+
+Result # 4: cord-uid iaxfrida 
+Title: 
+ Digitalization of the Labor Market in the Fourth Industrial Revolution 
+Abstract: 
+The article analyzes the trends of digitalization of the labor market in the fourth industrial revolution In the course of our work, we used empirical (observation, description, calculations and measurement) and theoretical (analogy, comparative analysis, literature analysis) research methods New specialties and competencies that will be in demand in the future, as well as barriers to retraining of employees, have been identified The impact of the covid-19 coronavirus pandemic on the labor market is also being considered On the example of the entertainment industry, the effect of the introduction of quarantine measures is demonstrated The conclusion is made about the future prospects for the development of the labor market in the conditions of the crisis A number of anti-crisis measures based on the methods of planned economy are proposed © 2021, The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG
+
+Result # 5: cord-uid 5zek7jwk 
+Title: 
+ Prospective Longitudinal Serosurvey of Health Care Workers in the First Wave of the SARS-CoV-2 Pandemic in a Quaternary Care Hospital in Munich, Germany 
+Abstract: 
+BACKGROUND: High infection rates among health care personnel in an uncontained pandemic can paralyze health systems due to staff shortages. Risk constellations and rates of seroconversion for health care workers during the first wave of the SARS-CoV-2 pandemic are still largely unclear. METHODS: Health care personnel (n=300) on different organizational units in the LMU Munich University Hospital were included and followed in this prospective longitudinal study in the period of March 24 until July 7, 2020. Participants were monitored in intervals of two to six weeks using different antibody assays for serological testing and questionnaires to evaluate risk contacts. In a subgroup of infected participants, we obtained nasopharyngeal swabs to perform whole genome sequencing for outbreak characterization. RESULTS: Health care workers involved in patient care on dedicated COVID-19 wards or on regular non-COVID-19 wards showed a higher rate of SARS-CoV-2 seroconversion compared to staff in the emergency department and non-frontline personnel. The landscape of risk contacts in these units was dynamic, with a decrease of unprotected risk contacts in the emergency department and an increase on non-COVID-19 wards. Both, the intensity and number of risk contacts, were associated with higher rates of seroconversion. On regular wards, staff infections tended to occur in clusters, while infections on COVID-19 wards were less frequent and apparently independent of each other. CONCLUSION: The risk of SARS-CoV-2 infection for front-line health care workers was increased during the first pandemic wave in Southern Germany. Stringent measures for infection control are essential to protect all patient-facing staff during the ongoing pandemic.
+

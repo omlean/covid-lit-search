@@ -89,11 +89,12 @@ def tfidf_search(query, vectorizer, term_document_matrix, index, num_top_results
 
 ################################################################################################
 
-def write_details(query, uids, reference_df, record_file_prefix, directory='data/processed/'):
+def write_details(query, uids, reference_df, record_file_prefix, directory='results/'):
     if type(uids) == pd.Series:
         uids = list(uids.values)
     
     record_path = directory + f'{record_file_prefix}_search_record.txt'
+    
     while os.path.exists(record_path):
         record_file_prefix = input("Record file by that name already exists; select another:")
         record_path = directory + f'{record_file_prefix}_search_record.txt'
