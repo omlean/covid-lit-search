@@ -25,3 +25,6 @@ data/processed/metadata_clean2.csv
 data/processed/metadata_clean_lda.csv
 data/processed/metadata_apr21.csv
 data/processed/metadata_jan21.csv
+results/lda_jan21_01/jan21_01.expElogbeta.npy
+results/apr21_01.expElogbeta.npy
+results/lda_jan21_01/jan21_01.state.sstats.npy
