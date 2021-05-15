@@ -1,12 +1,20 @@
+import pandas as pd
+import numpy as np
 from tqdm import tqdm
+import re
 
 from gensim.corpora.dictionary import Dictionary
 from gensim.models.ldamodel import LdaModel
 
+from gensim.matutils import cossim
+
+from preprocessing import clean_text_lda
+
 class MyCorpus():
     
-    def __init__(self, doc_path_list):
+    def __init__(self, doc_path_list, dictionary=None):
         self.doc_path_list = doc_path_list
+        self.dictionary = dictionary
         
     def __len__(self):
          return len(self.doc_path_list)
@@ -53,3 +61,33 @@ class MyCorpus():
             with open(doc_path, 'r') as file:
                 text = file.read()
             yield self.dictionary.doc2bow(text.split())
+            
+######################################################################################################
+            
+def query_to_topics(query, dictionary, model):
+    """Input: raw string query.
+    Output: Predicted topic distribution of query based on model"""
+    query_clean = clean_text_lda(query)
+    query_vec = dictionary.doc2bow(query_clean.split())
+    query_topics = model[query_vec]
+    return query_topics
+
+######################################################################################################
+
+def lda_search(query, model, corpus, dictionary, reference_df, num_top_results=5):
+    """Input: Search query
+    Output: Results of search: Title, Abstract, Date, Link(s)"""
+    
+    def uid(path):
+        return re.findall(r'(\w+)_clean.txt', path)[0]
+
+    query_vector = query_to_topics(query, dictionary, model) # vectorize query string
+    distances = np.array([cossim(query_vector, document) for document in tqdm(corpus)]) # create vector of similarities 
+    top_indices = np.argsort(distances)[-num_top_results:][::-1] # find n closest documents
+    filelist = [corpus.doc_path_list[i] for i in top_indices]
+    uids = [uid(file) for file in filelist] # recover uids
+    results_table = reference_df[reference_df.cord_uid.apply(lambda x: x in uids)] # recover document details from reference_df
+            
+    return results_table
+
+######################################################################################################

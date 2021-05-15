@@ -1,0 +1,13 @@
+Model details for lda_jan21_01
+
+Corpus: 
+df = load_cleaned_metadata('data/processed/metadata_clean_lda.csv')
+mask1 = df.publish_time.apply(lambda x: x.year == 2021)
+mask2 = df.publish_time.apply(lambda x: x.month == 1)
+df_jan21 = df[mask1 & mask2]
+ids = df_jan21.cord_uid.tolist()
+
+# filter extremes
+corpus.filter_extremes(no_below=5, no_above=0.2)
+
+model = LdaModel(corpus, num_topics=500, id2word=corpus.id2word, alpha=0.1)

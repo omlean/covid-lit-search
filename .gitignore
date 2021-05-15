@@ -23,3 +23,5 @@ data/processed/04_jan21_full_table.csv
 data/processed/04_jan21_vectorizer.pkl
 data/processed/metadata_clean2.csv
 data/processed/metadata_clean_lda.csv
+data/processed/metadata_apr21.csv
+data/processed/metadata_jan21.csv
