@@ -13,6 +13,10 @@ data/processed/tdm1.npz
 data/processed/titles_abstracts_merged_cleaned.csv
 data/processed/titles_abstracts_merged_cleaned_1.csv
 *.npz
+!streamlit_tdm.npz
+results/lda_21_01/
+results/lda_jan21_01 (garbage)/
+
 data/processed/01_full_table.csv
 data/processed/01_vectorizer.pkl
 data/processed/02_vectorizer.pkl
@@ -28,3 +32,5 @@ data/processed/metadata_jan21.csv
 results/lda_jan21_01/jan21_01.expElogbeta.npy
 results/apr21_01.expElogbeta.npy
 results/lda_jan21_01/jan21_01.state.sstats.npy
+data/processed/metadata_21.csv
+data/processed/metadata_lda_sample.csv

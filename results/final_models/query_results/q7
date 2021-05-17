@@ -1,0 +1,38 @@
+What is the diagnostic accuracy of the available COVID-19 tests?
+
+
+Result 1: uid 65syefv7
+
+A Software Tool for Calculating the Uncertainty of Diagnostic Accuracy Measures
+
+Screening and diagnostic tests are applied for the classification of people into diseased and non-diseased populations. Although diagnostic accuracy measures are used to evaluate the correctness of classification in clinical research and practice, there has been limited research on their uncertainty. The objective for this work was to develop a tool for calculating the uncertainty of diagnostic accuracy measures, as diagnostic accuracy is fundamental to clinical decision-making. For this reason, the freely available interactive program Diagnostic Uncertainty has been developed in the Wolfram Language. The program provides six modules with nine submodules for calculating and plotting the standard combined, measurement and sampling uncertainty and the resultant confidence intervals of various diagnostic accuracy measures of screening or diagnostic tests, which measure a normally distributed measurand, applied at a single point in time to samples of non-diseased and diseased populations. This is done for differing sample sizes, mean and standard deviation of the measurand, diagnostic threshold and standard measurement uncertainty of the test. The application of the program is demonstrated with an illustrative example of glucose measurements in samples of diabetic and non-diabetic populations, that shows the calculation of the uncertainty of diagnostic accuracy measures. The presented interactive program is user-friendly and can be used as a flexible educational and research tool in medical decision-making, to calculate and explore the uncertainty of diagnostic accuracy measures.
+
+
+Result 2: uid eempfz0q
+
+Health Care Professionals' Confidence and Preferences for Diagnostic Assays for SARS-CoV-2: A Global Study
+
+Background: The COVID-19 pandemic has led to an urgent requirement for novel diagnostic tests that determine infection with SARS-CoV-2 and the development of an immune response against it. The perspective of end users on the characteristics and clinical use of these assays has not been previously considered. Methods: We surveyed 17,186 health care professions (HCPs) in 29 countries to gauge opinion on the design, use, diagnostic impact and diagnostic accuracy of COVID-19 tests. Results were correlated with national statistics on the burden of disease and testing in individual countries. Results: HCPs overwhelmingly recognized the importance of COVID-19 tests but 37.1% were unsure of the appropriate timing of investigations relative to disease symptoms. Confidence in the diagnostic accuracy of assays varied inversely with COVID-19-related mortality in individual countries but had no relationship with the total number of tests performed. There was global consensus that the most important impact of positive antigen and antibody testing was confidence in returning to work following recovery. Saliva was the preferred sampling fluid for COVID-19 diagnostic tests in all groups surveyed. Conclusions: HCP input can ensure novel assays are fit for purpose in varied global health care settings, but HCPs may require support to effectively use novel diagnostics thus minimizing waste when supplies are limited.
+
+
+Result 3: uid dabxd3jt
+
+Performance and operational feasibility of antigen and antibody rapid diagnostic tests for COVID-19 in symptomatic and asymptomatic patients in Cameroon: a clinical, prospective, diagnostic accuracy study
+
+BACKGROUND: Real-time PCR is recommended to detect SARS-CoV-2 infection. However, PCR availability is restricted in most countries. Rapid diagnostic tests are considered acceptable alternatives, but data are lacking on their performance. We assessed the performance of four antibody-based rapid diagnostic tests and one antigen-based rapid diagnostic test for detecting SARS-CoV-2 infection in the community in Cameroon. METHODS: In this clinical, prospective, diagnostic accuracy study, we enrolled individuals aged at least 21 years who were either symptomatic and suspected of having COVID-19 or asymptomatic and presented for screening. We tested peripheral blood for SARS-CoV-2 antibodies using the Innovita (Biological Technology; Beijing, China), Wondfo (Guangzhou Wondfo Biotech; Guangzhou, China), SD Biosensor (SD Biosensor; Gyeonggi-do, South Korea), and Runkun tests (Runkun Pharmaceutical; Hunan, China), and nasopharyngeal swabs for SARS-CoV-2 antigen using the SD Biosensor test. Antigen rapid diagnostic tests were compared with Abbott PCR testing (Abbott; Abbott Park, IL, USA), and antibody rapid diagnostic tests were compared with Biomerieux immunoassays (Biomerieux; Marcy l'Etoile, France). We retrospectively tested two diagnostic algorithms that incorporated rapid diagnostic tests for symptomatic and asymptomatic patients using simulation modelling. FINDINGS: 1195 participants were enrolled in the study. 347 (29%) tested SARS-CoV-2 PCR-positive, 223 (19%) rapid diagnostic test antigen-positive, and 478 (40%) rapid diagnostic test antibody-positive. Antigen-based rapid diagnostic test sensitivity was 80·0% (95% CI 71·0–88·0) in the first 7 days after symptom onset, but antibody-based rapid diagnostic tests had only 26·8% sensitivity (18·3–36·8). Antibody rapid diagnostic test sensitivity increased to 76·4% (70·1–82·0) 14 days after symptom onset. Among asymptomatic participants, the sensitivity of antigen-based and antibody-based rapid diagnostic tests were 37·0% (27·0–48·0) and 50·7% (42·2–59·1), respectively. Cohen's κ showed substantial agreement between Wondfo antibody rapid diagnostic test and gold-standard ELISA (κ=0·76; sensitivity 0·98) and between Biosensor and ELISA (κ=0·60; sensitivity 0·94). Innovita (κ=0·47; sensitivity 0·93) and Runkun (κ=0·43; sensitivity 0·76) showed moderate agreement. An antigen-based retrospective algorithm applied to symptomatic patients showed 94·0% sensitivity and 91·0% specificity in the first 7 days after symptom onset. For asymptomatic participants, the algorithm showed a sensitivity of 34% (95% CI 23·0–44·0) and a specificity of 92·0% (88·0–96·0). INTERPRETATION: Rapid diagnostic tests had good overall sensitivity for diagnosing SARS-CoV-2 infection. Rapid diagnostic tests could be incorporated into efficient testing algorithms as an alternative to PCR to decrease diagnostic delays and onward viral transmission. FUNDING: Médecins Sans Frontières WACA and Médecins Sans Frontières OCG. TRANSLATIONS: For the French and Spanish translations of the abstract see Supplementary Materials section.
+
+
+Result 4: uid cjs8ao1s
+
+COVID-19 re-infection: Diagnostic challenges and proposed diagnostic criteria
+
+None
+
+
+Result 5: uid m06bta0d
+
+Diagnostic performance of antigen testing for SARS-CoV-2
+
+None
+
+

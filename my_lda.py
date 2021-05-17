@@ -63,7 +63,19 @@ class MyCorpus():
             yield self.dictionary.doc2bow(text.split())
             
 ######################################################################################################
-            
+
+def doc_topic_matrix(corpus, model):
+    matrix = np.zeros((len(corpus), len(corpus.dictionary)))
+    row = 0
+    for bow in corpus:
+        doc_topics = model[bow]
+        for col, value in doc_topics:
+            matrix[row,col] = value
+        row += 1
+    return matrix
+
+######################################################################################################
+
 def query_to_topics(query, dictionary, model):
     """Input: raw string query.
     Output: Predicted topic distribution of query based on model"""
