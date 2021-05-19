@@ -3,6 +3,8 @@ import numpy as np
 from tqdm import tqdm
 import re
 
+import matplotlib.pyplot as plt
+
 from gensim.corpora.dictionary import Dictionary
 from gensim.models.ldamodel import LdaModel
 
@@ -15,6 +17,8 @@ class MyCorpus():
     def __init__(self, doc_path_list, dictionary=None):
         self.doc_path_list = doc_path_list
         self.dictionary = dictionary
+        if self.dictionary is not None:
+            self.id2word = self.dictionary.id2token
         
     def __len__(self):
          return len(self.doc_path_list)
@@ -67,7 +71,7 @@ class MyCorpus():
 def doc_topic_matrix(corpus, model):
     matrix = np.zeros((len(corpus), len(corpus.dictionary)))
     row = 0
-    for bow in corpus:
+    for bow in tqdm(corpus):
         doc_topics = model[bow]
         for col, value in doc_topics:
             matrix[row,col] = value
@@ -101,5 +105,25 @@ def lda_search(query, model, corpus, dictionary, reference_df, num_top_results=5
     results_table = reference_df[reference_df.cord_uid.apply(lambda x: x in uids)] # recover document details from reference_df
             
     return results_table
+
+######################################################################################################
+
+# check number of topics per document
+def topics_per_doc(model, corpus):
+    """Plots distribition of number of topics per document"""
+    num_topics = []
+    for doc in tqdm(corpus):
+        pred = model[doc]
+        num_topics.append(len(pred))
+    plt.hist(num_topics, bins=max(num_topics))
+    plt.show()
+
+######################################################################################################
+
+# list top words in topic
+def topic_words(topic_no, topn=30):
+    ids = model.get_topic_terms(topic_no, topn=50)
+    words = [corpus.id2word[i] for i, amt in ids]
+    return words
 
 ######################################################################################################

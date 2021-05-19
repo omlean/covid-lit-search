@@ -144,7 +144,7 @@ def clean_metadata_for_lda(filepath):
 
 def load_cleaned_metadata(path):
     # load dataframe
-    df = pd.read_csv(path, index_col=0, sep='\t', low_memory=False)
+    df = pd.read_csv(path, sep='\t', low_memory=False)
     
     # convert publish_time to datetime format
     df.publish_time = pd.to_datetime(df.publish_time)
