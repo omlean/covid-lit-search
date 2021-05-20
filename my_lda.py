@@ -98,7 +98,7 @@ def lda_search(query, model, corpus, dictionary, reference_df, num_top_results=5
         return re.findall(r'(\w+)_clean.txt', path)[0]
 
     query_vector = query_to_topics(query, dictionary, model) # vectorize query string
-    distances = np.array([cossim(query_vector, document) for document in tqdm(corpus)]) # create vector of similarities 
+    distances = np.array([cossim(query_vector, model[document]) for document in tqdm(corpus)]) # create vector of similarities 
     top_indices = np.argsort(distances)[-num_top_results:][::-1] # find n closest documents
     filelist = [corpus.doc_path_list[i] for i in top_indices]
     uids = [uid(file) for file in filelist] # recover uids
